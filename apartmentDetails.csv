@@ -1,0 +1,767 @@
+name,address,reviews,displayName,beds,baths,unit,rent,discount,sqft,availability
+1000 Spalding,"1000 Spalding Dr, Atlanta, GA 30350 Atlanta",4.1 (37 reviews) Verified Listing,Chastain,1,1,8012,"$1,449",,842,availibility Now
+1000 Spalding,"1000 Spalding Dr, Atlanta, GA 30350 Atlanta",4.1 (37 reviews) Verified Listing,Chastain,1,1,6039,"$1,463",,842,availibility Now
+1000 Spalding,"1000 Spalding Dr, Atlanta, GA 30350 Atlanta",4.1 (37 reviews) Verified Listing,Chastain,1,1,7027,"$1,611",,842,availibility Now
+1000 Spalding,"1000 Spalding Dr, Atlanta, GA 30350 Atlanta",4.1 (37 reviews) Verified Listing,Brookhaven,1,1,5037,"$1,436",,675,availibility Oct. 30
+1000 Spalding,"1000 Spalding Dr, Atlanta, GA 30350 Atlanta",4.1 (37 reviews) Verified Listing,Dunwoody,2,1,6010,"$1,669",,"1,024",availibility Now
+1000 Spalding,"1000 Spalding Dr, Atlanta, GA 30350 Atlanta",4.1 (37 reviews) Verified Listing,Dunwoody,2,1,5010,"$1,669",,"1,024",availibility Now
+1000 Spalding,"1000 Spalding Dr, Atlanta, GA 30350 Atlanta",4.1 (37 reviews) Verified Listing,Dunwoody,2,1,3027,"$1,645",,"1,024",availibility Nov. 29
+1000 Spalding,"1000 Spalding Dr, Atlanta, GA 30350 Atlanta",4.1 (37 reviews) Verified Listing,Morningside,2,2,1027,"$1,842",,"1,204",availibility Now
+1000 Spalding,"1000 Spalding Dr, Atlanta, GA 30350 Atlanta",4.1 (37 reviews) Verified Listing,Morningside,2,2,4034,"$1,889",,"1,204",availibility Oct. 17
+1000 Spalding,"1000 Spalding Dr, Atlanta, GA 30350 Atlanta",4.1 (37 reviews) Verified Listing,Morningside,2,2,1024,"$1,944",,"1,204",availibility Nov. 6
+1000 Spalding,"1000 Spalding Dr, Atlanta, GA 30350 Atlanta",4.1 (37 reviews) Verified Listing,Peachtree,3,2,9003,"$2,299",,"1,489",availibility Now
+1000 Spalding,"1000 Spalding Dr, Atlanta, GA 30350 Atlanta",4.1 (37 reviews) Verified Listing,Chastain,1,1,8012,"$1,449",,842,availibility Now
+1000 Spalding,"1000 Spalding Dr, Atlanta, GA 30350 Atlanta",4.1 (37 reviews) Verified Listing,Chastain,1,1,6039,"$1,463",,842,availibility Now
+1000 Spalding,"1000 Spalding Dr, Atlanta, GA 30350 Atlanta",4.1 (37 reviews) Verified Listing,Chastain,1,1,7027,"$1,611",,842,availibility Now
+1000 Spalding,"1000 Spalding Dr, Atlanta, GA 30350 Atlanta",4.1 (37 reviews) Verified Listing,Brookhaven,1,1,5037,"$1,436",,675,availibility Oct. 30
+1000 Spalding,"1000 Spalding Dr, Atlanta, GA 30350 Atlanta",4.1 (37 reviews) Verified Listing,Dunwoody,2,1,6010,"$1,669",,"1,024",availibility Now
+1000 Spalding,"1000 Spalding Dr, Atlanta, GA 30350 Atlanta",4.1 (37 reviews) Verified Listing,Dunwoody,2,1,5010,"$1,669",,"1,024",availibility Now
+1000 Spalding,"1000 Spalding Dr, Atlanta, GA 30350 Atlanta",4.1 (37 reviews) Verified Listing,Dunwoody,2,1,3027,"$1,645",,"1,024",availibility Nov. 29
+1000 Spalding,"1000 Spalding Dr, Atlanta, GA 30350 Atlanta",4.1 (37 reviews) Verified Listing,Morningside,2,2,1027,"$1,842",,"1,204",availibility Now
+1000 Spalding,"1000 Spalding Dr, Atlanta, GA 30350 Atlanta",4.1 (37 reviews) Verified Listing,Morningside,2,2,4034,"$1,889",,"1,204",availibility Oct. 17
+1000 Spalding,"1000 Spalding Dr, Atlanta, GA 30350 Atlanta",4.1 (37 reviews) Verified Listing,Morningside,2,2,1024,"$1,944",,"1,204",availibility Nov. 6
+1000 Spalding,"1000 Spalding Dr, Atlanta, GA 30350 Atlanta",4.1 (37 reviews) Verified Listing,Peachtree,3,2,9003,"$2,299",,"1,489",availibility Now
+Aspire Perimeter,"5385 Peachtree Dunwoody Rd NE, Atlanta, GA 30342 Windsor",4.6 (72 reviews) Verified Listing,One Bedroom A1,1,1,1130,"$1,299",,650,availibility Now
+Aspire Perimeter,"5385 Peachtree Dunwoody Rd NE, Atlanta, GA 30342 Windsor",4.6 (72 reviews) Verified Listing,One Bedroom A1,1,1,1112,"$1,374",,680,availibility Now
+Aspire Perimeter,"5385 Peachtree Dunwoody Rd NE, Atlanta, GA 30342 Windsor",4.6 (72 reviews) Verified Listing,One Bedroom A1,1,1,0805,"$1,384",,680,availibility Now
+Aspire Perimeter,"5385 Peachtree Dunwoody Rd NE, Atlanta, GA 30342 Windsor",4.6 (72 reviews) Verified Listing,One Bedroom A1,1,1,0806,"$1,384",,680,availibility Sep. 29
+Aspire Perimeter,"5385 Peachtree Dunwoody Rd NE, Atlanta, GA 30342 Windsor",4.6 (72 reviews) Verified Listing,One Bedroom A1,1,1,1136,"$1,296",,650,availibility Oct. 6
+Aspire Perimeter,"5385 Peachtree Dunwoody Rd NE, Atlanta, GA 30342 Windsor",4.6 (72 reviews) Verified Listing,One Bedroom A3,1,1,0301,"$1,490",,925,availibility Now
+Aspire Perimeter,"5385 Peachtree Dunwoody Rd NE, Atlanta, GA 30342 Windsor",4.6 (72 reviews) Verified Listing,One Bedroom A3,1,1,0715,"$1,530",,925,availibility Sep. 30
+Aspire Perimeter,"5385 Peachtree Dunwoody Rd NE, Atlanta, GA 30342 Windsor",4.6 (72 reviews) Verified Listing,One Bedroom A5,1,1,0204,"$1,560",,960,availibility Sep. 29
+Aspire Perimeter,"5385 Peachtree Dunwoody Rd NE, Atlanta, GA 30342 Windsor",4.6 (72 reviews) Verified Listing,One Bedroom A7,1,1,1103,"$1,729",,"1,100",availibility Oct. 3
+Aspire Perimeter,"5385 Peachtree Dunwoody Rd NE, Atlanta, GA 30342 Windsor",4.6 (72 reviews) Verified Listing,One Bedroom A7,1,1,1125,"$1,764",,"1,100",availibility Nov. 28
+Aspire Perimeter,"5385 Peachtree Dunwoody Rd NE, Atlanta, GA 30342 Windsor",4.6 (72 reviews) Verified Listing,One Bedroom A4,1,1,0416,"$1,559",,930,availibility Oct. 5
+Aspire Perimeter,"5385 Peachtree Dunwoody Rd NE, Atlanta, GA 30342 Windsor",4.6 (72 reviews) Verified Listing,One Bedroom A6,1,1,0217,"$1,569",,975,availibility Oct. 19
+Aspire Perimeter,"5385 Peachtree Dunwoody Rd NE, Atlanta, GA 30342 Windsor",4.6 (72 reviews) Verified Listing,One Bedroom A6,1,1,0401,"$1,544",,975,availibility Oct. 22
+Aspire Perimeter,"5385 Peachtree Dunwoody Rd NE, Atlanta, GA 30342 Windsor",4.6 (72 reviews) Verified Listing,One Bedroom A2,1,1,0808,"$1,509",,900,availibility Oct. 20
+Aspire Perimeter,"5385 Peachtree Dunwoody Rd NE, Atlanta, GA 30342 Windsor",4.6 (72 reviews) Verified Listing,One Bedroom A2,1,1,0809,"$1,534",,900,availibility Oct. 22
+Aspire Perimeter,"5385 Peachtree Dunwoody Rd NE, Atlanta, GA 30342 Windsor",4.6 (72 reviews) Verified Listing,Two Bedroom B4 TH,2,2.5,0307,"$2,137",,"1,620",availibility Sep. 29
+Aspire Perimeter,"5385 Peachtree Dunwoody Rd NE, Atlanta, GA 30342 Windsor",4.6 (72 reviews) Verified Listing,Two Bedroom B5 TH,2,2.5,0418,"$2,367",,"1,800",availibility Sep. 30
+Aspire Perimeter,"5385 Peachtree Dunwoody Rd NE, Atlanta, GA 30342 Windsor",4.6 (72 reviews) Verified Listing,Two Bedroom B1,2,2,0822,"$1,884",,"1,200",availibility Oct. 24
+Aspire Perimeter,"5385 Peachtree Dunwoody Rd NE, Atlanta, GA 30342 Windsor",4.6 (72 reviews) Verified Listing,Two Bedroom B1,2,2,0831,"$1,919",,"1,200",availibility Nov. 18
+Aspire Perimeter,"5385 Peachtree Dunwoody Rd NE, Atlanta, GA 30342 Windsor",4.6 (72 reviews) Verified Listing,Two Bedroom B3 TH,2,2.5,0303,"$2,352",,"1,570",availibility Nov. 1
+Aspire Perimeter,"5385 Peachtree Dunwoody Rd NE, Atlanta, GA 30342 Windsor",4.6 (72 reviews) Verified Listing,Three Bedroom C4 TH,3,2.5,0710,"$2,776",,"2,360",availibility Oct. 2
+Aspire Perimeter,"5385 Peachtree Dunwoody Rd NE, Atlanta, GA 30342 Windsor",4.6 (72 reviews) Verified Listing,Three Bedroom C1,3,2,0120,"$2,086",,"1,450",availibility Oct. 15
+Aspire Perimeter,"5385 Peachtree Dunwoody Rd NE, Atlanta, GA 30342 Windsor",4.6 (72 reviews) Verified Listing,Three Bedroom C1,3,2,0108,"$2,071",,"1,450",availibility Oct. 23
+Aspire Perimeter,"5385 Peachtree Dunwoody Rd NE, Atlanta, GA 30342 Windsor",4.6 (72 reviews) Verified Listing,One Bedroom A1,1,1,1130,"$1,299",,650,availibility Now
+Aspire Perimeter,"5385 Peachtree Dunwoody Rd NE, Atlanta, GA 30342 Windsor",4.6 (72 reviews) Verified Listing,One Bedroom A1,1,1,1112,"$1,374",,680,availibility Now
+Aspire Perimeter,"5385 Peachtree Dunwoody Rd NE, Atlanta, GA 30342 Windsor",4.6 (72 reviews) Verified Listing,One Bedroom A1,1,1,0805,"$1,384",,680,availibility Now
+Aspire Perimeter,"5385 Peachtree Dunwoody Rd NE, Atlanta, GA 30342 Windsor",4.6 (72 reviews) Verified Listing,One Bedroom A1,1,1,0806,"$1,384",,680,availibility Sep. 29
+Aspire Perimeter,"5385 Peachtree Dunwoody Rd NE, Atlanta, GA 30342 Windsor",4.6 (72 reviews) Verified Listing,One Bedroom A1,1,1,1136,"$1,296",,650,availibility Oct. 6
+Aspire Perimeter,"5385 Peachtree Dunwoody Rd NE, Atlanta, GA 30342 Windsor",4.6 (72 reviews) Verified Listing,One Bedroom A3,1,1,0301,"$1,490",,925,availibility Now
+Aspire Perimeter,"5385 Peachtree Dunwoody Rd NE, Atlanta, GA 30342 Windsor",4.6 (72 reviews) Verified Listing,One Bedroom A3,1,1,0715,"$1,530",,925,availibility Sep. 30
+Aspire Perimeter,"5385 Peachtree Dunwoody Rd NE, Atlanta, GA 30342 Windsor",4.6 (72 reviews) Verified Listing,One Bedroom A5,1,1,0204,"$1,560",,960,availibility Sep. 29
+Aspire Perimeter,"5385 Peachtree Dunwoody Rd NE, Atlanta, GA 30342 Windsor",4.6 (72 reviews) Verified Listing,One Bedroom A7,1,1,1103,"$1,729",,"1,100",availibility Oct. 3
+Aspire Perimeter,"5385 Peachtree Dunwoody Rd NE, Atlanta, GA 30342 Windsor",4.6 (72 reviews) Verified Listing,One Bedroom A7,1,1,1125,"$1,764",,"1,100",availibility Nov. 28
+Aspire Perimeter,"5385 Peachtree Dunwoody Rd NE, Atlanta, GA 30342 Windsor",4.6 (72 reviews) Verified Listing,One Bedroom A4,1,1,0416,"$1,559",,930,availibility Oct. 5
+Aspire Perimeter,"5385 Peachtree Dunwoody Rd NE, Atlanta, GA 30342 Windsor",4.6 (72 reviews) Verified Listing,One Bedroom A6,1,1,0217,"$1,569",,975,availibility Oct. 19
+Aspire Perimeter,"5385 Peachtree Dunwoody Rd NE, Atlanta, GA 30342 Windsor",4.6 (72 reviews) Verified Listing,One Bedroom A6,1,1,0401,"$1,544",,975,availibility Oct. 22
+Aspire Perimeter,"5385 Peachtree Dunwoody Rd NE, Atlanta, GA 30342 Windsor",4.6 (72 reviews) Verified Listing,One Bedroom A2,1,1,0808,"$1,509",,900,availibility Oct. 20
+Aspire Perimeter,"5385 Peachtree Dunwoody Rd NE, Atlanta, GA 30342 Windsor",4.6 (72 reviews) Verified Listing,One Bedroom A2,1,1,0809,"$1,534",,900,availibility Oct. 22
+Aspire Perimeter,"5385 Peachtree Dunwoody Rd NE, Atlanta, GA 30342 Windsor",4.6 (72 reviews) Verified Listing,Two Bedroom B4 TH,2,2.5,0307,"$2,137",,"1,620",availibility Sep. 29
+Aspire Perimeter,"5385 Peachtree Dunwoody Rd NE, Atlanta, GA 30342 Windsor",4.6 (72 reviews) Verified Listing,Two Bedroom B5 TH,2,2.5,0418,"$2,367",,"1,800",availibility Sep. 30
+Aspire Perimeter,"5385 Peachtree Dunwoody Rd NE, Atlanta, GA 30342 Windsor",4.6 (72 reviews) Verified Listing,Two Bedroom B1,2,2,0822,"$1,884",,"1,200",availibility Oct. 24
+Aspire Perimeter,"5385 Peachtree Dunwoody Rd NE, Atlanta, GA 30342 Windsor",4.6 (72 reviews) Verified Listing,Two Bedroom B1,2,2,0831,"$1,919",,"1,200",availibility Nov. 18
+Aspire Perimeter,"5385 Peachtree Dunwoody Rd NE, Atlanta, GA 30342 Windsor",4.6 (72 reviews) Verified Listing,Two Bedroom B3 TH,2,2.5,0303,"$2,352",,"1,570",availibility Nov. 1
+Aspire Perimeter,"5385 Peachtree Dunwoody Rd NE, Atlanta, GA 30342 Windsor",4.6 (72 reviews) Verified Listing,Three Bedroom C4 TH,3,2.5,0710,"$2,776",,"2,360",availibility Oct. 2
+Aspire Perimeter,"5385 Peachtree Dunwoody Rd NE, Atlanta, GA 30342 Windsor",4.6 (72 reviews) Verified Listing,Three Bedroom C1,3,2,0120,"$2,086",,"1,450",availibility Oct. 15
+Aspire Perimeter,"5385 Peachtree Dunwoody Rd NE, Atlanta, GA 30342 Windsor",4.6 (72 reviews) Verified Listing,Three Bedroom C1,3,2,0108,"$2,071",,"1,450",availibility Oct. 23
+The Bricks Perimeter Center,"302 Perimeter Ctr N, Dunwoody, GA 30346 Perimeter Center",4.9 (43 reviews) Verified Listing,Lily,Studio,1,2104,"$1,538",,560,availibility Now
+The Bricks Perimeter Center,"302 Perimeter Ctr N, Dunwoody, GA 30346 Perimeter Center",4.9 (43 reviews) Verified Listing,Lily,Studio,1,2132,Call for Rent,,560,availibility Now
+The Bricks Perimeter Center,"302 Perimeter Ctr N, Dunwoody, GA 30346 Perimeter Center",4.9 (43 reviews) Verified Listing,Daisy,Studio,1,1117,"$1,703",,626,availibility Now
+The Bricks Perimeter Center,"302 Perimeter Ctr N, Dunwoody, GA 30346 Perimeter Center",4.9 (43 reviews) Verified Listing,Blossom,1,1,1268,"$1,474",,679,availibility Now
+The Bricks Perimeter Center,"302 Perimeter Ctr N, Dunwoody, GA 30346 Perimeter Center",4.9 (43 reviews) Verified Listing,Blossom,1,1,1107,"$1,479",,679,availibility Oct. 6
+The Bricks Perimeter Center,"302 Perimeter Ctr N, Dunwoody, GA 30346 Perimeter Center",4.9 (43 reviews) Verified Listing,Blossom,1,1,2211,"$1,483",,679,availibility Oct. 23
+The Bricks Perimeter Center,"302 Perimeter Ctr N, Dunwoody, GA 30346 Perimeter Center",4.9 (43 reviews) Verified Listing,Clover,1,1,2118,Call for Rent,,711,availibility Now
+The Bricks Perimeter Center,"302 Perimeter Ctr N, Dunwoody, GA 30346 Perimeter Center",4.9 (43 reviews) Verified Listing,Ivy,1,1,1237,"$1,735",,815,availibility Now
+The Bricks Perimeter Center,"302 Perimeter Ctr N, Dunwoody, GA 30346 Perimeter Center",4.9 (43 reviews) Verified Listing,Ivy,1,1,2401,"$1,754",,815,availibility Oct. 29
+The Bricks Perimeter Center,"302 Perimeter Ctr N, Dunwoody, GA 30346 Perimeter Center",4.9 (43 reviews) Verified Listing,Lilac,2,2,1067,"$1,894",,"1,106",availibility Now
+The Bricks Perimeter Center,"302 Perimeter Ctr N, Dunwoody, GA 30346 Perimeter Center",4.9 (43 reviews) Verified Listing,Lilac,2,2,1351,"$1,951",,"1,106",availibility Now
+The Bricks Perimeter Center,"302 Perimeter Ctr N, Dunwoody, GA 30346 Perimeter Center",4.9 (43 reviews) Verified Listing,Lilac,2,2,2223,"$1,962",,"1,106",availibility Now
+The Bricks Perimeter Center,"302 Perimeter Ctr N, Dunwoody, GA 30346 Perimeter Center",4.9 (43 reviews) Verified Listing,Poppy,2,2,2131,"$1,977",,"1,140",availibility Now
+The Bricks Perimeter Center,"302 Perimeter Ctr N, Dunwoody, GA 30346 Perimeter Center",4.9 (43 reviews) Verified Listing,Poppy,2,2,2431,"$2,035",,"1,140",availibility Now
+The Bricks Perimeter Center,"302 Perimeter Ctr N, Dunwoody, GA 30346 Perimeter Center",4.9 (43 reviews) Verified Listing,Rose,2,2,1269,"$2,026",,"1,199",availibility Now
+The Bricks Perimeter Center,"302 Perimeter Ctr N, Dunwoody, GA 30346 Perimeter Center",4.9 (43 reviews) Verified Listing,Rose,2,2,2255,"$2,071",,"1,199",availibility Now
+The Bricks Perimeter Center,"302 Perimeter Ctr N, Dunwoody, GA 30346 Perimeter Center",4.9 (43 reviews) Verified Listing,Rose,2,2,1169,"$2,111",,"1,199",availibility Now
+The Bricks Perimeter Center,"302 Perimeter Ctr N, Dunwoody, GA 30346 Perimeter Center",4.9 (43 reviews) Verified Listing,Violet,2,2,2234,"$2,415",,"1,336",availibility Nov. 10
+The Bricks Perimeter Center,"302 Perimeter Ctr N, Dunwoody, GA 30346 Perimeter Center",4.9 (43 reviews) Verified Listing,Violet,2,2,2106,"$2,425",,"1,336",availibility Nov. 10
+The Bricks Perimeter Center,"302 Perimeter Ctr N, Dunwoody, GA 30346 Perimeter Center",4.9 (43 reviews) Verified Listing,Lily,Studio,1,2104,"$1,538",,560,availibility Now
+The Bricks Perimeter Center,"302 Perimeter Ctr N, Dunwoody, GA 30346 Perimeter Center",4.9 (43 reviews) Verified Listing,Lily,Studio,1,2132,Call for Rent,,560,availibility Now
+The Bricks Perimeter Center,"302 Perimeter Ctr N, Dunwoody, GA 30346 Perimeter Center",4.9 (43 reviews) Verified Listing,Daisy,Studio,1,1117,"$1,703",,626,availibility Now
+The Bricks Perimeter Center,"302 Perimeter Ctr N, Dunwoody, GA 30346 Perimeter Center",4.9 (43 reviews) Verified Listing,Blossom,1,1,1268,"$1,474",,679,availibility Now
+The Bricks Perimeter Center,"302 Perimeter Ctr N, Dunwoody, GA 30346 Perimeter Center",4.9 (43 reviews) Verified Listing,Blossom,1,1,1107,"$1,479",,679,availibility Oct. 6
+The Bricks Perimeter Center,"302 Perimeter Ctr N, Dunwoody, GA 30346 Perimeter Center",4.9 (43 reviews) Verified Listing,Blossom,1,1,2211,"$1,483",,679,availibility Oct. 23
+The Bricks Perimeter Center,"302 Perimeter Ctr N, Dunwoody, GA 30346 Perimeter Center",4.9 (43 reviews) Verified Listing,Clover,1,1,2118,Call for Rent,,711,availibility Now
+The Bricks Perimeter Center,"302 Perimeter Ctr N, Dunwoody, GA 30346 Perimeter Center",4.9 (43 reviews) Verified Listing,Ivy,1,1,1237,"$1,735",,815,availibility Now
+The Bricks Perimeter Center,"302 Perimeter Ctr N, Dunwoody, GA 30346 Perimeter Center",4.9 (43 reviews) Verified Listing,Ivy,1,1,2401,"$1,754",,815,availibility Oct. 29
+The Bricks Perimeter Center,"302 Perimeter Ctr N, Dunwoody, GA 30346 Perimeter Center",4.9 (43 reviews) Verified Listing,Lilac,2,2,1067,"$1,894",,"1,106",availibility Now
+The Bricks Perimeter Center,"302 Perimeter Ctr N, Dunwoody, GA 30346 Perimeter Center",4.9 (43 reviews) Verified Listing,Lilac,2,2,1351,"$1,951",,"1,106",availibility Now
+The Bricks Perimeter Center,"302 Perimeter Ctr N, Dunwoody, GA 30346 Perimeter Center",4.9 (43 reviews) Verified Listing,Lilac,2,2,2223,"$1,962",,"1,106",availibility Now
+The Bricks Perimeter Center,"302 Perimeter Ctr N, Dunwoody, GA 30346 Perimeter Center",4.9 (43 reviews) Verified Listing,Poppy,2,2,2131,"$1,977",,"1,140",availibility Now
+The Bricks Perimeter Center,"302 Perimeter Ctr N, Dunwoody, GA 30346 Perimeter Center",4.9 (43 reviews) Verified Listing,Poppy,2,2,2431,"$2,035",,"1,140",availibility Now
+The Bricks Perimeter Center,"302 Perimeter Ctr N, Dunwoody, GA 30346 Perimeter Center",4.9 (43 reviews) Verified Listing,Rose,2,2,1269,"$2,026",,"1,199",availibility Now
+The Bricks Perimeter Center,"302 Perimeter Ctr N, Dunwoody, GA 30346 Perimeter Center",4.9 (43 reviews) Verified Listing,Rose,2,2,2255,"$2,071",,"1,199",availibility Now
+The Bricks Perimeter Center,"302 Perimeter Ctr N, Dunwoody, GA 30346 Perimeter Center",4.9 (43 reviews) Verified Listing,Rose,2,2,1169,"$2,111",,"1,199",availibility Now
+The Bricks Perimeter Center,"302 Perimeter Ctr N, Dunwoody, GA 30346 Perimeter Center",4.9 (43 reviews) Verified Listing,Violet,2,2,2234,"$2,415",,"1,336",availibility Nov. 10
+The Bricks Perimeter Center,"302 Perimeter Ctr N, Dunwoody, GA 30346 Perimeter Center",4.9 (43 reviews) Verified Listing,Violet,2,2,2106,"$2,425",,"1,336",availibility Nov. 10
+The Encore by Windsor,"3290 Cobb Galleria Pky, Atlanta, GA 30339 Cumberland/Galleria",4.4 (43 reviews) Verified Listing,S1 - The Ensemble,Studio,1,13114,"$1,425",,610,availibility Now
+The Encore by Windsor,"3290 Cobb Galleria Pky, Atlanta, GA 30339 Cumberland/Galleria",4.4 (43 reviews) Verified Listing,S2 - The Classical,Studio,1,12150,"$1,520",,705,availibility Sep. 30
+The Encore by Windsor,"3290 Cobb Galleria Pky, Atlanta, GA 30339 Cumberland/Galleria",4.4 (43 reviews) Verified Listing,A1 - The Aria,1,1,12198,"$1,610",,750,availibility Now
+The Encore by Windsor,"3290 Cobb Galleria Pky, Atlanta, GA 30339 Cumberland/Galleria",4.4 (43 reviews) Verified Listing,A1 - The Aria,1,1,12158,"$1,630",,750,availibility Now
+The Encore by Windsor,"3290 Cobb Galleria Pky, Atlanta, GA 30339 Cumberland/Galleria",4.4 (43 reviews) Verified Listing,A1 - The Aria,1,1,13155,"$1,635",,750,availibility Now
+The Encore by Windsor,"3290 Cobb Galleria Pky, Atlanta, GA 30339 Cumberland/Galleria",4.4 (43 reviews) Verified Listing,A1 - The Aria,1,1,14166,"$1,650",,750,availibility Now
+The Encore by Windsor,"3290 Cobb Galleria Pky, Atlanta, GA 30339 Cumberland/Galleria",4.4 (43 reviews) Verified Listing,A1 - The Aria,1,1,12178,"$1,610",,750,availibility Sep. 30
+The Encore by Windsor,"3290 Cobb Galleria Pky, Atlanta, GA 30339 Cumberland/Galleria",4.4 (43 reviews) Verified Listing,A1 - The Aria,1,1,14143,"$1,655",,750,availibility Oct. 12
+The Encore by Windsor,"3290 Cobb Galleria Pky, Atlanta, GA 30339 Cumberland/Galleria",4.4 (43 reviews) Verified Listing,A1 - The Aria,1,1,14142,"$1,675",,750,availibility Oct. 16
+The Encore by Windsor,"3290 Cobb Galleria Pky, Atlanta, GA 30339 Cumberland/Galleria",4.4 (43 reviews) Verified Listing,A1 - The Aria,1,1,14138,"$1,725",,750,availibility Nov. 11
+The Encore by Windsor,"3290 Cobb Galleria Pky, Atlanta, GA 30339 Cumberland/Galleria",4.4 (43 reviews) Verified Listing,A1 - The Aria,1,1,15178,"$1,730",,750,availibility Dec. 8
+The Encore by Windsor,"3290 Cobb Galleria Pky, Atlanta, GA 30339 Cumberland/Galleria",4.4 (43 reviews) Verified Listing,A2 - The Lyric,1,1,15075,"$1,704",,805,availibility Now
+The Encore by Windsor,"3290 Cobb Galleria Pky, Atlanta, GA 30339 Cumberland/Galleria",4.4 (43 reviews) Verified Listing,A2 - The Lyric,1,1,14170,"$1,789",,805,availibility Oct. 24
+The Encore by Windsor,"3290 Cobb Galleria Pky, Atlanta, GA 30339 Cumberland/Galleria",4.4 (43 reviews) Verified Listing,A2 - The Lyric,1,1,16083,"$1,864",,805,availibility Nov. 23
+The Encore by Windsor,"3290 Cobb Galleria Pky, Atlanta, GA 30339 Cumberland/Galleria",4.4 (43 reviews) Verified Listing,A3 - The Note,1,1,12191,"$1,720",,840,availibility Now
+The Encore by Windsor,"3290 Cobb Galleria Pky, Atlanta, GA 30339 Cumberland/Galleria",4.4 (43 reviews) Verified Listing,B1 - The Rhapsody,2,2,15190,"$2,205",,"1,085",availibility Now
+The Encore by Windsor,"3290 Cobb Galleria Pky, Atlanta, GA 30339 Cumberland/Galleria",4.4 (43 reviews) Verified Listing,B1 - The Rhapsody,2,2,13084,"$2,185",,"1,085",availibility Sep. 30
+The Encore by Windsor,"3290 Cobb Galleria Pky, Atlanta, GA 30339 Cumberland/Galleria",4.4 (43 reviews) Verified Listing,B1 - The Rhapsody,2,2,15122,"$2,230",,"1,085",availibility Oct. 5
+The Encore by Windsor,"3290 Cobb Galleria Pky, Atlanta, GA 30339 Cumberland/Galleria",4.4 (43 reviews) Verified Listing,B1 - The Rhapsody,2,2,11107,"$2,175",,"1,085",availibility Nov. 10
+The Encore by Windsor,"3290 Cobb Galleria Pky, Atlanta, GA 30339 Cumberland/Galleria",4.4 (43 reviews) Verified Listing,B1 - The Rhapsody,2,2,15147,"$2,255",,"1,085",availibility Dec. 5
+The Encore by Windsor,"3290 Cobb Galleria Pky, Atlanta, GA 30339 Cumberland/Galleria",4.4 (43 reviews) Verified Listing,B2 - The Melody,2,2,15127,"$2,309",,"1,135",availibility Oct. 19
+The Encore by Windsor,"3290 Cobb Galleria Pky, Atlanta, GA 30339 Cumberland/Galleria",4.4 (43 reviews) Verified Listing,B2 - The Melody,2,2,15187,"$2,189",,"1,135",availibility Nov. 20
+The Encore by Windsor,"3290 Cobb Galleria Pky, Atlanta, GA 30339 Cumberland/Galleria",4.4 (43 reviews) Verified Listing,B5 - The Flat,2,2,15059,"$2,335",,"1,205",availibility Nov. 3
+The Encore by Windsor,"3290 Cobb Galleria Pky, Atlanta, GA 30339 Cumberland/Galleria",4.4 (43 reviews) Verified Listing,B5 - The Flat,2,2,14031,"$2,360",,"1,205",availibility Dec. 17
+The Encore by Windsor,"3290 Cobb Galleria Pky, Atlanta, GA 30339 Cumberland/Galleria",4.4 (43 reviews) Verified Listing,B6 - The Ballad,2,2,11207,"$2,434",,"1,325",availibility Nov. 18
+The Encore by Windsor,"3290 Cobb Galleria Pky, Atlanta, GA 30339 Cumberland/Galleria",4.4 (43 reviews) Verified Listing,B6 - The Ballad,2,2,16047,"$2,474",,"1,325",availibility Dec. 21
+The Encore by Windsor,"3290 Cobb Galleria Pky, Atlanta, GA 30339 Cumberland/Galleria",4.4 (43 reviews) Verified Listing,C1 Townhome - The Symphony,3,3,20024,"$3,355",,"1,597",availibility Nov. 23
+The Encore by Windsor,"3290 Cobb Galleria Pky, Atlanta, GA 30339 Cumberland/Galleria",4.4 (43 reviews) Verified Listing,S1 - The Ensemble,Studio,1,13114,"$1,425",,610,availibility Now
+The Encore by Windsor,"3290 Cobb Galleria Pky, Atlanta, GA 30339 Cumberland/Galleria",4.4 (43 reviews) Verified Listing,S2 - The Classical,Studio,1,12150,"$1,520",,705,availibility Sep. 30
+The Encore by Windsor,"3290 Cobb Galleria Pky, Atlanta, GA 30339 Cumberland/Galleria",4.4 (43 reviews) Verified Listing,A1 - The Aria,1,1,12198,"$1,610",,750,availibility Now
+The Encore by Windsor,"3290 Cobb Galleria Pky, Atlanta, GA 30339 Cumberland/Galleria",4.4 (43 reviews) Verified Listing,A1 - The Aria,1,1,12158,"$1,630",,750,availibility Now
+The Encore by Windsor,"3290 Cobb Galleria Pky, Atlanta, GA 30339 Cumberland/Galleria",4.4 (43 reviews) Verified Listing,A1 - The Aria,1,1,13155,"$1,635",,750,availibility Now
+The Encore by Windsor,"3290 Cobb Galleria Pky, Atlanta, GA 30339 Cumberland/Galleria",4.4 (43 reviews) Verified Listing,A1 - The Aria,1,1,14166,"$1,650",,750,availibility Now
+The Encore by Windsor,"3290 Cobb Galleria Pky, Atlanta, GA 30339 Cumberland/Galleria",4.4 (43 reviews) Verified Listing,A1 - The Aria,1,1,12178,"$1,610",,750,availibility Sep. 30
+The Encore by Windsor,"3290 Cobb Galleria Pky, Atlanta, GA 30339 Cumberland/Galleria",4.4 (43 reviews) Verified Listing,A1 - The Aria,1,1,14143,"$1,655",,750,availibility Oct. 12
+The Encore by Windsor,"3290 Cobb Galleria Pky, Atlanta, GA 30339 Cumberland/Galleria",4.4 (43 reviews) Verified Listing,A1 - The Aria,1,1,14142,"$1,675",,750,availibility Oct. 16
+The Encore by Windsor,"3290 Cobb Galleria Pky, Atlanta, GA 30339 Cumberland/Galleria",4.4 (43 reviews) Verified Listing,A1 - The Aria,1,1,14138,"$1,725",,750,availibility Nov. 11
+The Encore by Windsor,"3290 Cobb Galleria Pky, Atlanta, GA 30339 Cumberland/Galleria",4.4 (43 reviews) Verified Listing,A1 - The Aria,1,1,15178,"$1,730",,750,availibility Dec. 8
+The Encore by Windsor,"3290 Cobb Galleria Pky, Atlanta, GA 30339 Cumberland/Galleria",4.4 (43 reviews) Verified Listing,A2 - The Lyric,1,1,15075,"$1,704",,805,availibility Now
+The Encore by Windsor,"3290 Cobb Galleria Pky, Atlanta, GA 30339 Cumberland/Galleria",4.4 (43 reviews) Verified Listing,A2 - The Lyric,1,1,14170,"$1,789",,805,availibility Oct. 24
+The Encore by Windsor,"3290 Cobb Galleria Pky, Atlanta, GA 30339 Cumberland/Galleria",4.4 (43 reviews) Verified Listing,A2 - The Lyric,1,1,16083,"$1,864",,805,availibility Nov. 23
+The Encore by Windsor,"3290 Cobb Galleria Pky, Atlanta, GA 30339 Cumberland/Galleria",4.4 (43 reviews) Verified Listing,A3 - The Note,1,1,12191,"$1,720",,840,availibility Now
+The Encore by Windsor,"3290 Cobb Galleria Pky, Atlanta, GA 30339 Cumberland/Galleria",4.4 (43 reviews) Verified Listing,B1 - The Rhapsody,2,2,15190,"$2,205",,"1,085",availibility Now
+The Encore by Windsor,"3290 Cobb Galleria Pky, Atlanta, GA 30339 Cumberland/Galleria",4.4 (43 reviews) Verified Listing,B1 - The Rhapsody,2,2,13084,"$2,185",,"1,085",availibility Sep. 30
+The Encore by Windsor,"3290 Cobb Galleria Pky, Atlanta, GA 30339 Cumberland/Galleria",4.4 (43 reviews) Verified Listing,B1 - The Rhapsody,2,2,15122,"$2,230",,"1,085",availibility Oct. 5
+The Encore by Windsor,"3290 Cobb Galleria Pky, Atlanta, GA 30339 Cumberland/Galleria",4.4 (43 reviews) Verified Listing,B1 - The Rhapsody,2,2,11107,"$2,175",,"1,085",availibility Nov. 10
+The Encore by Windsor,"3290 Cobb Galleria Pky, Atlanta, GA 30339 Cumberland/Galleria",4.4 (43 reviews) Verified Listing,B1 - The Rhapsody,2,2,15147,"$2,255",,"1,085",availibility Dec. 5
+The Encore by Windsor,"3290 Cobb Galleria Pky, Atlanta, GA 30339 Cumberland/Galleria",4.4 (43 reviews) Verified Listing,B2 - The Melody,2,2,15127,"$2,309",,"1,135",availibility Oct. 19
+The Encore by Windsor,"3290 Cobb Galleria Pky, Atlanta, GA 30339 Cumberland/Galleria",4.4 (43 reviews) Verified Listing,B2 - The Melody,2,2,15187,"$2,189",,"1,135",availibility Nov. 20
+The Encore by Windsor,"3290 Cobb Galleria Pky, Atlanta, GA 30339 Cumberland/Galleria",4.4 (43 reviews) Verified Listing,B5 - The Flat,2,2,15059,"$2,335",,"1,205",availibility Nov. 3
+The Encore by Windsor,"3290 Cobb Galleria Pky, Atlanta, GA 30339 Cumberland/Galleria",4.4 (43 reviews) Verified Listing,B5 - The Flat,2,2,14031,"$2,360",,"1,205",availibility Dec. 17
+The Encore by Windsor,"3290 Cobb Galleria Pky, Atlanta, GA 30339 Cumberland/Galleria",4.4 (43 reviews) Verified Listing,B6 - The Ballad,2,2,11207,"$2,434",,"1,325",availibility Nov. 18
+The Encore by Windsor,"3290 Cobb Galleria Pky, Atlanta, GA 30339 Cumberland/Galleria",4.4 (43 reviews) Verified Listing,B6 - The Ballad,2,2,16047,"$2,474",,"1,325",availibility Dec. 21
+The Encore by Windsor,"3290 Cobb Galleria Pky, Atlanta, GA 30339 Cumberland/Galleria",4.4 (43 reviews) Verified Listing,C1 Townhome - The Symphony,3,3,20024,"$3,355",,"1,597",availibility Nov. 23
+The Alastair at Aria Village,"6500 Aria Blvd, Sandy Springs, GA 30328 Sandy Springs",4.9 (5 reviews) Verified Listing,A1,1,1,208,"$1,964",,701,availibility Now
+The Alastair at Aria Village,"6500 Aria Blvd, Sandy Springs, GA 30328 Sandy Springs",4.9 (5 reviews) Verified Listing,A1,1,1,523,"$2,032",,703,availibility Now
+The Alastair at Aria Village,"6500 Aria Blvd, Sandy Springs, GA 30328 Sandy Springs",4.9 (5 reviews) Verified Listing,A1,1,1,225,"$1,960",,703,availibility Oct. 10
+The Alastair at Aria Village,"6500 Aria Blvd, Sandy Springs, GA 30328 Sandy Springs",4.9 (5 reviews) Verified Listing,A1,1,1,526,"$2,097",,703,availibility Nov. 6
+The Alastair at Aria Village,"6500 Aria Blvd, Sandy Springs, GA 30328 Sandy Springs",4.9 (5 reviews) Verified Listing,A1,1,1,210,"$2,039",,703,availibility Nov. 8
+The Alastair at Aria Village,"6500 Aria Blvd, Sandy Springs, GA 30328 Sandy Springs",4.9 (5 reviews) Verified Listing,A1,1,1,123,"$2,039",,703,availibility Nov. 8
+The Alastair at Aria Village,"6500 Aria Blvd, Sandy Springs, GA 30328 Sandy Springs",4.9 (5 reviews) Verified Listing,A3,1,1,507,Call for Rent,,766,availibility Now
+The Alastair at Aria Village,"6500 Aria Blvd, Sandy Springs, GA 30328 Sandy Springs",4.9 (5 reviews) Verified Listing,A3,1,1,559,"$2,169",,768,availibility Oct. 19
+The Alastair at Aria Village,"6500 Aria Blvd, Sandy Springs, GA 30328 Sandy Springs",4.9 (5 reviews) Verified Listing,A3,1,1,260,"$2,128",,768,availibility Nov. 11
+The Alastair at Aria Village,"6500 Aria Blvd, Sandy Springs, GA 30328 Sandy Springs",4.9 (5 reviews) Verified Listing,A,1,1,411,"$2,223",,720,availibility Now
+The Alastair at Aria Village,"6500 Aria Blvd, Sandy Springs, GA 30328 Sandy Springs",4.9 (5 reviews) Verified Listing,A4,1,1,567,"$2,417",,756,availibility Now
+The Alastair at Aria Village,"6500 Aria Blvd, Sandy Springs, GA 30328 Sandy Springs",4.9 (5 reviews) Verified Listing,A4,1,1,142,"$2,537",,756,availibility Now
+The Alastair at Aria Village,"6500 Aria Blvd, Sandy Springs, GA 30328 Sandy Springs",4.9 (5 reviews) Verified Listing,A4,1,1,250,"$2,329",,756,availibility Oct. 15
+The Alastair at Aria Village,"6500 Aria Blvd, Sandy Springs, GA 30328 Sandy Springs",4.9 (5 reviews) Verified Listing,A2,1,1,457,"$2,049",,721,availibility Oct. 10
+The Alastair at Aria Village,"6500 Aria Blvd, Sandy Springs, GA 30328 Sandy Springs",4.9 (5 reviews) Verified Listing,A2,1,1,381,"$1,993",,720,availibility Oct. 12
+The Alastair at Aria Village,"6500 Aria Blvd, Sandy Springs, GA 30328 Sandy Springs",4.9 (5 reviews) Verified Listing,A2,1,1,577,"$2,029",,721,availibility Oct. 12
+The Alastair at Aria Village,"6500 Aria Blvd, Sandy Springs, GA 30328 Sandy Springs",4.9 (5 reviews) Verified Listing,A2,1,1,581,"$2,029",,720,availibility Oct. 19
+The Alastair at Aria Village,"6500 Aria Blvd, Sandy Springs, GA 30328 Sandy Springs",4.9 (5 reviews) Verified Listing,B7.1,2,2,231,"$3,510",,"1,113",availibility Now
+The Alastair at Aria Village,"6500 Aria Blvd, Sandy Springs, GA 30328 Sandy Springs",4.9 (5 reviews) Verified Listing,B7.1,2,2,131,"$3,718",,"1,113",availibility Now
+The Alastair at Aria Village,"6500 Aria Blvd, Sandy Springs, GA 30328 Sandy Springs",4.9 (5 reviews) Verified Listing,B7.1,2,2,414,"$3,476",,"1,113",availibility Sep. 29
+The Alastair at Aria Village,"6500 Aria Blvd, Sandy Springs, GA 30328 Sandy Springs",4.9 (5 reviews) Verified Listing,B7.1,2,2,331,"$3,254",,"1,113",availibility Nov. 7
+The Alastair at Aria Village,"6500 Aria Blvd, Sandy Springs, GA 30328 Sandy Springs",4.9 (5 reviews) Verified Listing,B7,2,2,447,"$3,481",,"1,134",availibility Oct. 1
+The Alastair at Aria Village,"6500 Aria Blvd, Sandy Springs, GA 30328 Sandy Springs",4.9 (5 reviews) Verified Listing,B7,2,2,322,"$3,209",,"1,134",availibility Oct. 20
+The Alastair at Aria Village,"6500 Aria Blvd, Sandy Springs, GA 30328 Sandy Springs",4.9 (5 reviews) Verified Listing,B6,2,2,468,"$4,129",,"1,380",availibility Nov. 5
+The Alastair at Aria Village,"6500 Aria Blvd, Sandy Springs, GA 30328 Sandy Springs",4.9 (5 reviews) Verified Listing,B11,2,2,329,"$3,994",,"1,313",availibility Nov. 10
+The Alastair at Aria Village,"6500 Aria Blvd, Sandy Springs, GA 30328 Sandy Springs",4.9 (5 reviews) Verified Listing,B8,2,2,244,Call for Rent,,"1,191",availibility Nov. 16
+The Alastair at Aria Village,"6500 Aria Blvd, Sandy Springs, GA 30328 Sandy Springs",4.9 (5 reviews) Verified Listing,A1,1,1,208,"$1,964",,701,availibility Now
+The Alastair at Aria Village,"6500 Aria Blvd, Sandy Springs, GA 30328 Sandy Springs",4.9 (5 reviews) Verified Listing,A1,1,1,523,"$2,032",,703,availibility Now
+The Alastair at Aria Village,"6500 Aria Blvd, Sandy Springs, GA 30328 Sandy Springs",4.9 (5 reviews) Verified Listing,A1,1,1,225,"$1,960",,703,availibility Oct. 10
+The Alastair at Aria Village,"6500 Aria Blvd, Sandy Springs, GA 30328 Sandy Springs",4.9 (5 reviews) Verified Listing,A1,1,1,526,"$2,097",,703,availibility Nov. 6
+The Alastair at Aria Village,"6500 Aria Blvd, Sandy Springs, GA 30328 Sandy Springs",4.9 (5 reviews) Verified Listing,A1,1,1,210,"$2,039",,703,availibility Nov. 8
+The Alastair at Aria Village,"6500 Aria Blvd, Sandy Springs, GA 30328 Sandy Springs",4.9 (5 reviews) Verified Listing,A1,1,1,123,"$2,039",,703,availibility Nov. 8
+The Alastair at Aria Village,"6500 Aria Blvd, Sandy Springs, GA 30328 Sandy Springs",4.9 (5 reviews) Verified Listing,A3,1,1,507,Call for Rent,,766,availibility Now
+The Alastair at Aria Village,"6500 Aria Blvd, Sandy Springs, GA 30328 Sandy Springs",4.9 (5 reviews) Verified Listing,A3,1,1,559,"$2,169",,768,availibility Oct. 19
+The Alastair at Aria Village,"6500 Aria Blvd, Sandy Springs, GA 30328 Sandy Springs",4.9 (5 reviews) Verified Listing,A3,1,1,260,"$2,128",,768,availibility Nov. 11
+The Alastair at Aria Village,"6500 Aria Blvd, Sandy Springs, GA 30328 Sandy Springs",4.9 (5 reviews) Verified Listing,A,1,1,411,"$2,223",,720,availibility Now
+The Alastair at Aria Village,"6500 Aria Blvd, Sandy Springs, GA 30328 Sandy Springs",4.9 (5 reviews) Verified Listing,A4,1,1,567,"$2,417",,756,availibility Now
+The Alastair at Aria Village,"6500 Aria Blvd, Sandy Springs, GA 30328 Sandy Springs",4.9 (5 reviews) Verified Listing,A4,1,1,142,"$2,537",,756,availibility Now
+The Alastair at Aria Village,"6500 Aria Blvd, Sandy Springs, GA 30328 Sandy Springs",4.9 (5 reviews) Verified Listing,A4,1,1,250,"$2,329",,756,availibility Oct. 15
+The Alastair at Aria Village,"6500 Aria Blvd, Sandy Springs, GA 30328 Sandy Springs",4.9 (5 reviews) Verified Listing,A2,1,1,457,"$2,049",,721,availibility Oct. 10
+The Alastair at Aria Village,"6500 Aria Blvd, Sandy Springs, GA 30328 Sandy Springs",4.9 (5 reviews) Verified Listing,A2,1,1,381,"$1,993",,720,availibility Oct. 12
+The Alastair at Aria Village,"6500 Aria Blvd, Sandy Springs, GA 30328 Sandy Springs",4.9 (5 reviews) Verified Listing,A2,1,1,577,"$2,029",,721,availibility Oct. 12
+The Alastair at Aria Village,"6500 Aria Blvd, Sandy Springs, GA 30328 Sandy Springs",4.9 (5 reviews) Verified Listing,A2,1,1,581,"$2,029",,720,availibility Oct. 19
+The Alastair at Aria Village,"6500 Aria Blvd, Sandy Springs, GA 30328 Sandy Springs",4.9 (5 reviews) Verified Listing,B7.1,2,2,231,"$3,510",,"1,113",availibility Now
+The Alastair at Aria Village,"6500 Aria Blvd, Sandy Springs, GA 30328 Sandy Springs",4.9 (5 reviews) Verified Listing,B7.1,2,2,131,"$3,718",,"1,113",availibility Now
+The Alastair at Aria Village,"6500 Aria Blvd, Sandy Springs, GA 30328 Sandy Springs",4.9 (5 reviews) Verified Listing,B7.1,2,2,414,"$3,476",,"1,113",availibility Sep. 29
+The Alastair at Aria Village,"6500 Aria Blvd, Sandy Springs, GA 30328 Sandy Springs",4.9 (5 reviews) Verified Listing,B7.1,2,2,331,"$3,254",,"1,113",availibility Nov. 7
+The Alastair at Aria Village,"6500 Aria Blvd, Sandy Springs, GA 30328 Sandy Springs",4.9 (5 reviews) Verified Listing,B7,2,2,447,"$3,481",,"1,134",availibility Oct. 1
+The Alastair at Aria Village,"6500 Aria Blvd, Sandy Springs, GA 30328 Sandy Springs",4.9 (5 reviews) Verified Listing,B7,2,2,322,"$3,209",,"1,134",availibility Oct. 20
+The Alastair at Aria Village,"6500 Aria Blvd, Sandy Springs, GA 30328 Sandy Springs",4.9 (5 reviews) Verified Listing,B6,2,2,468,"$4,129",,"1,380",availibility Nov. 5
+The Alastair at Aria Village,"6500 Aria Blvd, Sandy Springs, GA 30328 Sandy Springs",4.9 (5 reviews) Verified Listing,B11,2,2,329,"$3,994",,"1,313",availibility Nov. 10
+The Alastair at Aria Village,"6500 Aria Blvd, Sandy Springs, GA 30328 Sandy Springs",4.9 (5 reviews) Verified Listing,B8,2,2,244,Call for Rent,,"1,191",availibility Nov. 16
+The Keswick,"5126 Peachtree Blvd, Chamblee, GA 30341 North Atlanta",4.9 (21 reviews) Verified Listing,S1,Studio,1,006,"$1,665",Move-in by October 15th to Receive $500 Off First Month's Rent!,560,availibility Now
+The Keswick,"5126 Peachtree Blvd, Chamblee, GA 30341 North Atlanta",4.9 (21 reviews) Verified Listing,S1,Studio,1,106,"$1,595",Move-in by October 15th to Receive $500 Off First Month's Rent!,560,availibility Nov. 10
+The Keswick,"5126 Peachtree Blvd, Chamblee, GA 30341 North Atlanta",4.9 (21 reviews) Verified Listing,A4,1,1,503,"$2,065",Move-in by October 15th to Receive $500 Off First Month's Rent!,815,availibility Now
+The Keswick,"5126 Peachtree Blvd, Chamblee, GA 30341 North Atlanta",4.9 (21 reviews) Verified Listing,A4,1,1,308,"$2,090",Move-in by October 15th to Receive $500 Off First Month's Rent!,873,availibility Nov. 6
+The Keswick,"5126 Peachtree Blvd, Chamblee, GA 30341 North Atlanta",4.9 (21 reviews) Verified Listing,A8,1,1,201,"$2,130",Move-in by October 15th to Receive $500 Off First Month's Rent!,912,availibility Now
+The Keswick,"5126 Peachtree Blvd, Chamblee, GA 30341 North Atlanta",4.9 (21 reviews) Verified Listing,A7,1,1,217,"$1,984",Move-in by October 15th to Receive $500 Off First Month's Rent!,860,availibility Oct. 5
+The Keswick,"5126 Peachtree Blvd, Chamblee, GA 30341 North Atlanta",4.9 (21 reviews) Verified Listing,AD1,1,1,319,"$2,293",Move-in by October 15th to Receive $500 Off First Month's Rent!,"1,033",availibility Oct. 11
+The Keswick,"5126 Peachtree Blvd, Chamblee, GA 30341 North Atlanta",4.9 (21 reviews) Verified Listing,AD1,1,1,719,"$2,333",Move-in by October 15th to Receive $500 Off First Month's Rent!,"1,033",availibility Nov. 2
+The Keswick,"5126 Peachtree Blvd, Chamblee, GA 30341 North Atlanta",4.9 (21 reviews) Verified Listing,A3,1,1,540,"$1,775",Move-in by October 15th to Receive $500 Off First Month's Rent!,739,availibility Oct. 17
+The Keswick,"5126 Peachtree Blvd, Chamblee, GA 30341 North Atlanta",4.9 (21 reviews) Verified Listing,A3,1,1,740,"$1,805",Move-in by October 15th to Receive $500 Off First Month's Rent!,739,availibility Nov. 18
+The Keswick,"5126 Peachtree Blvd, Chamblee, GA 30341 North Atlanta",4.9 (21 reviews) Verified Listing,A10,1,1,630,"$1,755",Move-in by October 15th to Receive $500 Off First Month's Rent!,695,availibility Oct. 23
+The Keswick,"5126 Peachtree Blvd, Chamblee, GA 30341 North Atlanta",4.9 (21 reviews) Verified Listing,AD3,1,1,211,"$2,238",Move-in by October 15th to Receive $500 Off First Month's Rent!,"1,062",availibility Nov. 4
+The Keswick,"5126 Peachtree Blvd, Chamblee, GA 30341 North Atlanta",4.9 (21 reviews) Verified Listing,BD3,2,2,529,"$2,955",Move-in by October 15th to Receive $500 Off First Month's Rent!,"1,473",availibility Now
+The Keswick,"5126 Peachtree Blvd, Chamblee, GA 30341 North Atlanta",4.9 (21 reviews) Verified Listing,BD3,2,2,629,"$2,975",Move-in by October 15th to Receive $500 Off First Month's Rent!,"1,473",availibility Now
+The Keswick,"5126 Peachtree Blvd, Chamblee, GA 30341 North Atlanta",4.9 (21 reviews) Verified Listing,BD3,2,2,329,"$3,015",Move-in by October 15th to Receive $500 Off First Month's Rent!,"1,473",availibility Now
+The Keswick,"5126 Peachtree Blvd, Chamblee, GA 30341 North Atlanta",4.9 (21 reviews) Verified Listing,B4.2,2,2,327,"$2,330",Move-in by October 15th to Receive $500 Off First Month's Rent!,"1,204",availibility Oct. 31
+The Keswick,"5126 Peachtree Blvd, Chamblee, GA 30341 North Atlanta",4.9 (21 reviews) Verified Listing,B6,2,2,104,"$2,271",Move-in by October 15th to Receive $500 Off First Month's Rent!,"1,181",availibility Nov. 10
+The Keswick,"5126 Peachtree Blvd, Chamblee, GA 30341 North Atlanta",4.9 (21 reviews) Verified Listing,B5,2,2,627,"$2,304",Move-in by October 15th to Receive $500 Off First Month's Rent!,"1,145",availibility Nov. 22
+The Keswick,"5126 Peachtree Blvd, Chamblee, GA 30341 North Atlanta",4.9 (21 reviews) Verified Listing,S1,Studio,1,006,"$1,665",Move-in by October 15th to Receive $500 Off First Month's Rent!,560,availibility Now
+The Keswick,"5126 Peachtree Blvd, Chamblee, GA 30341 North Atlanta",4.9 (21 reviews) Verified Listing,S1,Studio,1,106,"$1,595",Move-in by October 15th to Receive $500 Off First Month's Rent!,560,availibility Nov. 10
+The Keswick,"5126 Peachtree Blvd, Chamblee, GA 30341 North Atlanta",4.9 (21 reviews) Verified Listing,A4,1,1,503,"$2,065",Move-in by October 15th to Receive $500 Off First Month's Rent!,815,availibility Now
+The Keswick,"5126 Peachtree Blvd, Chamblee, GA 30341 North Atlanta",4.9 (21 reviews) Verified Listing,A4,1,1,308,"$2,090",Move-in by October 15th to Receive $500 Off First Month's Rent!,873,availibility Nov. 6
+The Keswick,"5126 Peachtree Blvd, Chamblee, GA 30341 North Atlanta",4.9 (21 reviews) Verified Listing,A8,1,1,201,"$2,130",Move-in by October 15th to Receive $500 Off First Month's Rent!,912,availibility Now
+The Keswick,"5126 Peachtree Blvd, Chamblee, GA 30341 North Atlanta",4.9 (21 reviews) Verified Listing,A7,1,1,217,"$1,984",Move-in by October 15th to Receive $500 Off First Month's Rent!,860,availibility Oct. 5
+The Keswick,"5126 Peachtree Blvd, Chamblee, GA 30341 North Atlanta",4.9 (21 reviews) Verified Listing,AD1,1,1,319,"$2,293",Move-in by October 15th to Receive $500 Off First Month's Rent!,"1,033",availibility Oct. 11
+The Keswick,"5126 Peachtree Blvd, Chamblee, GA 30341 North Atlanta",4.9 (21 reviews) Verified Listing,AD1,1,1,719,"$2,333",Move-in by October 15th to Receive $500 Off First Month's Rent!,"1,033",availibility Nov. 2
+The Keswick,"5126 Peachtree Blvd, Chamblee, GA 30341 North Atlanta",4.9 (21 reviews) Verified Listing,A3,1,1,540,"$1,775",Move-in by October 15th to Receive $500 Off First Month's Rent!,739,availibility Oct. 17
+The Keswick,"5126 Peachtree Blvd, Chamblee, GA 30341 North Atlanta",4.9 (21 reviews) Verified Listing,A3,1,1,740,"$1,805",Move-in by October 15th to Receive $500 Off First Month's Rent!,739,availibility Nov. 18
+The Keswick,"5126 Peachtree Blvd, Chamblee, GA 30341 North Atlanta",4.9 (21 reviews) Verified Listing,A10,1,1,630,"$1,755",Move-in by October 15th to Receive $500 Off First Month's Rent!,695,availibility Oct. 23
+The Keswick,"5126 Peachtree Blvd, Chamblee, GA 30341 North Atlanta",4.9 (21 reviews) Verified Listing,AD3,1,1,211,"$2,238",Move-in by October 15th to Receive $500 Off First Month's Rent!,"1,062",availibility Nov. 4
+The Keswick,"5126 Peachtree Blvd, Chamblee, GA 30341 North Atlanta",4.9 (21 reviews) Verified Listing,BD3,2,2,529,"$2,955",Move-in by October 15th to Receive $500 Off First Month's Rent!,"1,473",availibility Now
+The Keswick,"5126 Peachtree Blvd, Chamblee, GA 30341 North Atlanta",4.9 (21 reviews) Verified Listing,BD3,2,2,629,"$2,975",Move-in by October 15th to Receive $500 Off First Month's Rent!,"1,473",availibility Now
+The Keswick,"5126 Peachtree Blvd, Chamblee, GA 30341 North Atlanta",4.9 (21 reviews) Verified Listing,BD3,2,2,329,"$3,015",Move-in by October 15th to Receive $500 Off First Month's Rent!,"1,473",availibility Now
+The Keswick,"5126 Peachtree Blvd, Chamblee, GA 30341 North Atlanta",4.9 (21 reviews) Verified Listing,B4.2,2,2,327,"$2,330",Move-in by October 15th to Receive $500 Off First Month's Rent!,"1,204",availibility Oct. 31
+The Keswick,"5126 Peachtree Blvd, Chamblee, GA 30341 North Atlanta",4.9 (21 reviews) Verified Listing,B6,2,2,104,"$2,271",Move-in by October 15th to Receive $500 Off First Month's Rent!,"1,181",availibility Nov. 10
+The Keswick,"5126 Peachtree Blvd, Chamblee, GA 30341 North Atlanta",4.9 (21 reviews) Verified Listing,B5,2,2,627,"$2,304",Move-in by October 15th to Receive $500 Off First Month's Rent!,"1,145",availibility Nov. 22
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,A1,Studio,1,1224,"$1,349",,504,availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,A1,Studio,1,2513,"$1,394",,504,availibility Oct. 7
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,A2,Studio,1,1130,"$1,429",,576,availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,A2,Studio,1,1438,"$1,434",,576,availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,A2,Studio,1,2212,"$1,464",,576,availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,A2,Studio,1,2332,"$1,469",,576,availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,A2,Studio,1,1530,"$1,474",,576,availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,B3,1,1,1114,"$1,724",,720,availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,B3,1,1,1425,"$1,729",,720,availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,B3,1,1,1427,"$1,729",,720,availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,B3,1,1,2220,"$1,759",,720,availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,B3,1,1,2210,"$1,759",,720,availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,B2,1,1,2528,"$1,704",,700,availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,B3a,1,1,1229,"$1,709",,720,availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,B3a,1,1,1529,"$1,744",,720,availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,C2,2,2,1142,"$1,964",,"1,008",availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,C2,2,2,2516,"$2,044",,"1,008",availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,C3,2,2,1339,"$2,024",,"1,020",availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,C3,2,2,1439,"$2,024",,"1,020",availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,C3,2,2,2111,"$2,029",,"1,020",availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,C3,2,2,1239,"$2,029",,"1,020",availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,C3,2,2,1539,"$2,064",,"1,020",availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,C4,2,2,1103,"$2,109",,"1,108",availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,C4,2,2,1105,"$2,109",,"1,108",availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,C4,2,2,1335,"$2,114",,"1,108",availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,C4,2,2,1435,"$2,114",,"1,108",availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,C4,2,2,1231,"$2,119",,"1,108",availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,C5a,2,2,1008,"$2,139",,"1,130",availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,C5a,2,2,1108,"$2,149",,"1,130",availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,C5a,2,2,1208,"$2,149",,"1,130",availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,C5a,2,2,1308,"$2,154",,"1,130",availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,C6,2,2,2327,"$2,324",,"1,166",availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,C6,2,2,2427,"$2,324",,"1,166",availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,C7,2,2,1421,"$2,424",,"1,300",availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,D1,3,2,1201,"$2,648",,"1,344",availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,D1,3,2,1146,"$2,648",,"1,344",availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,D1,3,2,1345,"$2,653",,"1,344",availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,D1,3,2,1445,"$2,653",,"1,344",availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,D1a,3,2,2337,"$2,653",,"1,344",availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,D1a,3,2,2437,"$2,653",,"1,344",availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,D1a,3,2,2537,"$2,693",,"1,344",availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,A1,Studio,1,1224,"$1,349",,504,availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,A1,Studio,1,2513,"$1,394",,504,availibility Oct. 7
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,A2,Studio,1,1130,"$1,429",,576,availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,A2,Studio,1,1438,"$1,434",,576,availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,A2,Studio,1,2212,"$1,464",,576,availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,A2,Studio,1,2332,"$1,469",,576,availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,A2,Studio,1,1530,"$1,474",,576,availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,B3,1,1,1114,"$1,724",,720,availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,B3,1,1,1425,"$1,729",,720,availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,B3,1,1,1427,"$1,729",,720,availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,B3,1,1,2220,"$1,759",,720,availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,B3,1,1,2210,"$1,759",,720,availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,B2,1,1,2528,"$1,704",,700,availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,B3a,1,1,1229,"$1,709",,720,availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,B3a,1,1,1529,"$1,744",,720,availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,C2,2,2,1142,"$1,964",,"1,008",availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,C2,2,2,2516,"$2,044",,"1,008",availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,C3,2,2,1339,"$2,024",,"1,020",availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,C3,2,2,1439,"$2,024",,"1,020",availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,C3,2,2,2111,"$2,029",,"1,020",availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,C3,2,2,1239,"$2,029",,"1,020",availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,C3,2,2,1539,"$2,064",,"1,020",availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,C4,2,2,1103,"$2,109",,"1,108",availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,C4,2,2,1105,"$2,109",,"1,108",availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,C4,2,2,1335,"$2,114",,"1,108",availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,C4,2,2,1435,"$2,114",,"1,108",availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,C4,2,2,1231,"$2,119",,"1,108",availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,C5a,2,2,1008,"$2,139",,"1,130",availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,C5a,2,2,1108,"$2,149",,"1,130",availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,C5a,2,2,1208,"$2,149",,"1,130",availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,C5a,2,2,1308,"$2,154",,"1,130",availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,C6,2,2,2327,"$2,324",,"1,166",availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,C6,2,2,2427,"$2,324",,"1,166",availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,C7,2,2,1421,"$2,424",,"1,300",availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,D1,3,2,1201,"$2,648",,"1,344",availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,D1,3,2,1146,"$2,648",,"1,344",availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,D1,3,2,1345,"$2,653",,"1,344",availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,D1,3,2,1445,"$2,653",,"1,344",availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,D1a,3,2,2337,"$2,653",,"1,344",availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,D1a,3,2,2437,"$2,653",,"1,344",availibility Now
+Lumen Doraville,"4256 Tilly Mill Rd, Doraville, GA 30360 North Atlanta",4.8 (3 reviews) Verified Listing,D1a,3,2,2537,"$2,693",,"1,344",availibility Now
+Flats at North Springs,"6850 Peachtree Dunwoody Rd, Sandy Springs, GA 30328 Sandy Springs",4.2 (115 reviews) Verified Listing,River Birch,1,1,1413,"$1,531",Now offering $500 off select apartment homes AND $99 application and administration fee special!!! Call today to schedule your tour and learn more today!!!,780,availibility Now
+Flats at North Springs,"6850 Peachtree Dunwoody Rd, Sandy Springs, GA 30328 Sandy Springs",4.2 (115 reviews) Verified Listing,River Birch,1,1,1404,"$1,681",Now offering $500 off select apartment homes AND $99 application and administration fee special!!! Call today to schedule your tour and learn more today!!!,780,availibility Now
+Flats at North Springs,"6850 Peachtree Dunwoody Rd, Sandy Springs, GA 30328 Sandy Springs",4.2 (115 reviews) Verified Listing,River Birch,1,1,1422,"$1,490",Now offering $500 off select apartment homes AND $99 application and administration fee special!!! Call today to schedule your tour and learn more today!!!,,availibility Oct. 12
+Flats at North Springs,"6850 Peachtree Dunwoody Rd, Sandy Springs, GA 30328 Sandy Springs",4.2 (115 reviews) Verified Listing,Flowering Dogwood,1,1,1316,"$1,595",Now offering $500 off select apartment homes AND $99 application and administration fee special!!! Call today to schedule your tour and learn more today!!!,950,availibility Now
+Flats at North Springs,"6850 Peachtree Dunwoody Rd, Sandy Springs, GA 30328 Sandy Springs",4.2 (115 reviews) Verified Listing,Flowering Dogwood,1,1,1232,"$1,621",Now offering $500 off select apartment homes AND $99 application and administration fee special!!! Call today to schedule your tour and learn more today!!!,950,availibility Now
+Flats at North Springs,"6850 Peachtree Dunwoody Rd, Sandy Springs, GA 30328 Sandy Springs",4.2 (115 reviews) Verified Listing,Maple 1,1,1.5,1114,"$1,765",Now offering $500 off select apartment homes AND $99 application and administration fee special!!! Call today to schedule your tour and learn more today!!!,"1,072",availibility Now
+Flats at North Springs,"6850 Peachtree Dunwoody Rd, Sandy Springs, GA 30328 Sandy Springs",4.2 (115 reviews) Verified Listing,Maple 1,1,1.5,1125,"$1,906",Now offering $500 off select apartment homes AND $99 application and administration fee special!!! Call today to schedule your tour and learn more today!!!,"1,072",availibility Oct. 31
+Flats at North Springs,"6850 Peachtree Dunwoody Rd, Sandy Springs, GA 30328 Sandy Springs",4.2 (115 reviews) Verified Listing,Maple 2,1,1.5,0620,"$1,887",Now offering $500 off select apartment homes AND $99 application and administration fee special!!! Call today to schedule your tour and learn more today!!!,"1,139",availibility Now
+Flats at North Springs,"6850 Peachtree Dunwoody Rd, Sandy Springs, GA 30328 Sandy Springs",4.2 (115 reviews) Verified Listing,Maple 2,1,1.5,1311,"$1,892",Now offering $500 off select apartment homes AND $99 application and administration fee special!!! Call today to schedule your tour and learn more today!!!,"1,139",availibility Now
+Flats at North Springs,"6850 Peachtree Dunwoody Rd, Sandy Springs, GA 30328 Sandy Springs",4.2 (115 reviews) Verified Listing,Maple 2,1,1.5,1318,"$1,902",Now offering $500 off select apartment homes AND $99 application and administration fee special!!! Call today to schedule your tour and learn more today!!!,"1,139",availibility Now
+Flats at North Springs,"6850 Peachtree Dunwoody Rd, Sandy Springs, GA 30328 Sandy Springs",4.2 (115 reviews) Verified Listing,Cypress,1,1,0313,"$1,565",Now offering $500 off select apartment homes AND $99 application and administration fee special!!! Call today to schedule your tour and learn more today!!!,875,availibility Sep. 29
+Flats at North Springs,"6850 Peachtree Dunwoody Rd, Sandy Springs, GA 30328 Sandy Springs",4.2 (115 reviews) Verified Listing,Cypress,1,1,0412,"$1,607",Now offering $500 off select apartment homes AND $99 application and administration fee special!!! Call today to schedule your tour and learn more today!!!,875,availibility Sep. 29
+Flats at North Springs,"6850 Peachtree Dunwoody Rd, Sandy Springs, GA 30328 Sandy Springs",4.2 (115 reviews) Verified Listing,Cypress,1,1,0415,"$1,565",Now offering $500 off select apartment homes AND $99 application and administration fee special!!! Call today to schedule your tour and learn more today!!!,875,availibility Oct. 9
+Flats at North Springs,"6850 Peachtree Dunwoody Rd, Sandy Springs, GA 30328 Sandy Springs",4.2 (115 reviews) Verified Listing,Weeping Willow,2,2,0236,"$2,105",Now offering $500 off select apartment homes AND $99 application and administration fee special!!! Call today to schedule your tour and learn more today!!!,"1,174",availibility Now
+Flats at North Springs,"6850 Peachtree Dunwoody Rd, Sandy Springs, GA 30328 Sandy Springs",4.2 (115 reviews) Verified Listing,Weeping Willow,2,2,0211,"$2,105",Now offering $500 off select apartment homes AND $99 application and administration fee special!!! Call today to schedule your tour and learn more today!!!,"1,174",availibility Now
+Flats at North Springs,"6850 Peachtree Dunwoody Rd, Sandy Springs, GA 30328 Sandy Springs",4.2 (115 reviews) Verified Listing,Weeping Willow,2,2,0531,"$2,080",Now offering $500 off select apartment homes AND $99 application and administration fee special!!! Call today to schedule your tour and learn more today!!!,"1,174",availibility Sep. 29
+Flats at North Springs,"6850 Peachtree Dunwoody Rd, Sandy Springs, GA 30328 Sandy Springs",4.2 (115 reviews) Verified Listing,Juniper,2,2,0730,"$2,245",Now offering $500 off select apartment homes AND $99 application and administration fee special!!! Call today to schedule your tour and learn more today!!!,"1,340",availibility Now
+Flats at North Springs,"6850 Peachtree Dunwoody Rd, Sandy Springs, GA 30328 Sandy Springs",4.2 (115 reviews) Verified Listing,Juniper,2,2,0738,"$2,245",Now offering $500 off select apartment homes AND $99 application and administration fee special!!! Call today to schedule your tour and learn more today!!!,"1,340",availibility Now
+Flats at North Springs,"6850 Peachtree Dunwoody Rd, Sandy Springs, GA 30328 Sandy Springs",4.2 (115 reviews) Verified Listing,Juniper,2,2,0708,"$2,275",Now offering $500 off select apartment homes AND $99 application and administration fee special!!! Call today to schedule your tour and learn more today!!!,"1,340",availibility Now
+Flats at North Springs,"6850 Peachtree Dunwoody Rd, Sandy Springs, GA 30328 Sandy Springs",4.2 (115 reviews) Verified Listing,Southern Magnolia,2,2,1033,"$2,329",Now offering $500 off select apartment homes AND $99 application and administration fee special!!! Call today to schedule your tour and learn more today!!!,"1,395",availibility Now
+Flats at North Springs,"6850 Peachtree Dunwoody Rd, Sandy Springs, GA 30328 Sandy Springs",4.2 (115 reviews) Verified Listing,Southern Magnolia,2,2,0812,"$2,559",Now offering $500 off select apartment homes AND $99 application and administration fee special!!! Call today to schedule your tour and learn more today!!!,"1,395",availibility Oct. 7
+Flats at North Springs,"6850 Peachtree Dunwoody Rd, Sandy Springs, GA 30328 Sandy Springs",4.2 (115 reviews) Verified Listing,Southern Magnolia,2,2,1106,Call for Rent,Now offering $500 off select apartment homes AND $99 application and administration fee special!!! Call today to schedule your tour and learn more today!!!,,availibility Nov. 25
+Flats at North Springs,"6850 Peachtree Dunwoody Rd, Sandy Springs, GA 30328 Sandy Springs",4.2 (115 reviews) Verified Listing,Cedar,2,2,1118,"$2,364",Now offering $500 off select apartment homes AND $99 application and administration fee special!!! Call today to schedule your tour and learn more today!!!,"1,250",availibility Now
+Flats at North Springs,"6850 Peachtree Dunwoody Rd, Sandy Springs, GA 30328 Sandy Springs",4.2 (115 reviews) Verified Listing,Cedar,2,2,1020,"$2,364",Now offering $500 off select apartment homes AND $99 application and administration fee special!!! Call today to schedule your tour and learn more today!!!,"1,250",availibility Now
+Flats at North Springs,"6850 Peachtree Dunwoody Rd, Sandy Springs, GA 30328 Sandy Springs",4.2 (115 reviews) Verified Listing,Cedar,2,2,1019,"$2,339",Now offering $500 off select apartment homes AND $99 application and administration fee special!!! Call today to schedule your tour and learn more today!!!,"1,250",availibility Oct. 17
+Flats at North Springs,"6850 Peachtree Dunwoody Rd, Sandy Springs, GA 30328 Sandy Springs",4.2 (115 reviews) Verified Listing,Redwood 3,3,2,0920,"$2,713",Now offering $500 off select apartment homes AND $99 application and administration fee special!!! Call today to schedule your tour and learn more today!!!,"1,682",availibility Now
+Flats at North Springs,"6850 Peachtree Dunwoody Rd, Sandy Springs, GA 30328 Sandy Springs",4.2 (115 reviews) Verified Listing,Redwood 3,3,2,0921,"$2,603",Now offering $500 off select apartment homes AND $99 application and administration fee special!!! Call today to schedule your tour and learn more today!!!,"1,682",availibility Oct. 4
+Flats at North Springs,"6850 Peachtree Dunwoody Rd, Sandy Springs, GA 30328 Sandy Springs",4.2 (115 reviews) Verified Listing,River Birch,1,1,1413,"$1,531",Now offering $500 off select apartment homes AND $99 application and administration fee special!!! Call today to schedule your tour and learn more today!!!,780,availibility Now
+Flats at North Springs,"6850 Peachtree Dunwoody Rd, Sandy Springs, GA 30328 Sandy Springs",4.2 (115 reviews) Verified Listing,River Birch,1,1,1404,"$1,681",Now offering $500 off select apartment homes AND $99 application and administration fee special!!! Call today to schedule your tour and learn more today!!!,780,availibility Now
+Flats at North Springs,"6850 Peachtree Dunwoody Rd, Sandy Springs, GA 30328 Sandy Springs",4.2 (115 reviews) Verified Listing,River Birch,1,1,1422,"$1,490",Now offering $500 off select apartment homes AND $99 application and administration fee special!!! Call today to schedule your tour and learn more today!!!,,availibility Oct. 12
+Flats at North Springs,"6850 Peachtree Dunwoody Rd, Sandy Springs, GA 30328 Sandy Springs",4.2 (115 reviews) Verified Listing,Flowering Dogwood,1,1,1316,"$1,595",Now offering $500 off select apartment homes AND $99 application and administration fee special!!! Call today to schedule your tour and learn more today!!!,950,availibility Now
+Flats at North Springs,"6850 Peachtree Dunwoody Rd, Sandy Springs, GA 30328 Sandy Springs",4.2 (115 reviews) Verified Listing,Flowering Dogwood,1,1,1232,"$1,621",Now offering $500 off select apartment homes AND $99 application and administration fee special!!! Call today to schedule your tour and learn more today!!!,950,availibility Now
+Flats at North Springs,"6850 Peachtree Dunwoody Rd, Sandy Springs, GA 30328 Sandy Springs",4.2 (115 reviews) Verified Listing,Maple 1,1,1.5,1114,"$1,765",Now offering $500 off select apartment homes AND $99 application and administration fee special!!! Call today to schedule your tour and learn more today!!!,"1,072",availibility Now
+Flats at North Springs,"6850 Peachtree Dunwoody Rd, Sandy Springs, GA 30328 Sandy Springs",4.2 (115 reviews) Verified Listing,Maple 1,1,1.5,1125,"$1,906",Now offering $500 off select apartment homes AND $99 application and administration fee special!!! Call today to schedule your tour and learn more today!!!,"1,072",availibility Oct. 31
+Flats at North Springs,"6850 Peachtree Dunwoody Rd, Sandy Springs, GA 30328 Sandy Springs",4.2 (115 reviews) Verified Listing,Maple 2,1,1.5,0620,"$1,887",Now offering $500 off select apartment homes AND $99 application and administration fee special!!! Call today to schedule your tour and learn more today!!!,"1,139",availibility Now
+Flats at North Springs,"6850 Peachtree Dunwoody Rd, Sandy Springs, GA 30328 Sandy Springs",4.2 (115 reviews) Verified Listing,Maple 2,1,1.5,1311,"$1,892",Now offering $500 off select apartment homes AND $99 application and administration fee special!!! Call today to schedule your tour and learn more today!!!,"1,139",availibility Now
+Flats at North Springs,"6850 Peachtree Dunwoody Rd, Sandy Springs, GA 30328 Sandy Springs",4.2 (115 reviews) Verified Listing,Maple 2,1,1.5,1318,"$1,902",Now offering $500 off select apartment homes AND $99 application and administration fee special!!! Call today to schedule your tour and learn more today!!!,"1,139",availibility Now
+Flats at North Springs,"6850 Peachtree Dunwoody Rd, Sandy Springs, GA 30328 Sandy Springs",4.2 (115 reviews) Verified Listing,Cypress,1,1,0313,"$1,565",Now offering $500 off select apartment homes AND $99 application and administration fee special!!! Call today to schedule your tour and learn more today!!!,875,availibility Sep. 29
+Flats at North Springs,"6850 Peachtree Dunwoody Rd, Sandy Springs, GA 30328 Sandy Springs",4.2 (115 reviews) Verified Listing,Cypress,1,1,0412,"$1,607",Now offering $500 off select apartment homes AND $99 application and administration fee special!!! Call today to schedule your tour and learn more today!!!,875,availibility Sep. 29
+Flats at North Springs,"6850 Peachtree Dunwoody Rd, Sandy Springs, GA 30328 Sandy Springs",4.2 (115 reviews) Verified Listing,Cypress,1,1,0415,"$1,565",Now offering $500 off select apartment homes AND $99 application and administration fee special!!! Call today to schedule your tour and learn more today!!!,875,availibility Oct. 9
+Flats at North Springs,"6850 Peachtree Dunwoody Rd, Sandy Springs, GA 30328 Sandy Springs",4.2 (115 reviews) Verified Listing,Weeping Willow,2,2,0236,"$2,105",Now offering $500 off select apartment homes AND $99 application and administration fee special!!! Call today to schedule your tour and learn more today!!!,"1,174",availibility Now
+Flats at North Springs,"6850 Peachtree Dunwoody Rd, Sandy Springs, GA 30328 Sandy Springs",4.2 (115 reviews) Verified Listing,Weeping Willow,2,2,0211,"$2,105",Now offering $500 off select apartment homes AND $99 application and administration fee special!!! Call today to schedule your tour and learn more today!!!,"1,174",availibility Now
+Flats at North Springs,"6850 Peachtree Dunwoody Rd, Sandy Springs, GA 30328 Sandy Springs",4.2 (115 reviews) Verified Listing,Weeping Willow,2,2,0531,"$2,080",Now offering $500 off select apartment homes AND $99 application and administration fee special!!! Call today to schedule your tour and learn more today!!!,"1,174",availibility Sep. 29
+Flats at North Springs,"6850 Peachtree Dunwoody Rd, Sandy Springs, GA 30328 Sandy Springs",4.2 (115 reviews) Verified Listing,Juniper,2,2,0730,"$2,245",Now offering $500 off select apartment homes AND $99 application and administration fee special!!! Call today to schedule your tour and learn more today!!!,"1,340",availibility Now
+Flats at North Springs,"6850 Peachtree Dunwoody Rd, Sandy Springs, GA 30328 Sandy Springs",4.2 (115 reviews) Verified Listing,Juniper,2,2,0738,"$2,245",Now offering $500 off select apartment homes AND $99 application and administration fee special!!! Call today to schedule your tour and learn more today!!!,"1,340",availibility Now
+Flats at North Springs,"6850 Peachtree Dunwoody Rd, Sandy Springs, GA 30328 Sandy Springs",4.2 (115 reviews) Verified Listing,Juniper,2,2,0708,"$2,275",Now offering $500 off select apartment homes AND $99 application and administration fee special!!! Call today to schedule your tour and learn more today!!!,"1,340",availibility Now
+Flats at North Springs,"6850 Peachtree Dunwoody Rd, Sandy Springs, GA 30328 Sandy Springs",4.2 (115 reviews) Verified Listing,Southern Magnolia,2,2,1033,"$2,329",Now offering $500 off select apartment homes AND $99 application and administration fee special!!! Call today to schedule your tour and learn more today!!!,"1,395",availibility Now
+Flats at North Springs,"6850 Peachtree Dunwoody Rd, Sandy Springs, GA 30328 Sandy Springs",4.2 (115 reviews) Verified Listing,Southern Magnolia,2,2,0812,"$2,559",Now offering $500 off select apartment homes AND $99 application and administration fee special!!! Call today to schedule your tour and learn more today!!!,"1,395",availibility Oct. 7
+Flats at North Springs,"6850 Peachtree Dunwoody Rd, Sandy Springs, GA 30328 Sandy Springs",4.2 (115 reviews) Verified Listing,Southern Magnolia,2,2,1106,Call for Rent,Now offering $500 off select apartment homes AND $99 application and administration fee special!!! Call today to schedule your tour and learn more today!!!,,availibility Nov. 25
+Flats at North Springs,"6850 Peachtree Dunwoody Rd, Sandy Springs, GA 30328 Sandy Springs",4.2 (115 reviews) Verified Listing,Cedar,2,2,1118,"$2,364",Now offering $500 off select apartment homes AND $99 application and administration fee special!!! Call today to schedule your tour and learn more today!!!,"1,250",availibility Now
+Flats at North Springs,"6850 Peachtree Dunwoody Rd, Sandy Springs, GA 30328 Sandy Springs",4.2 (115 reviews) Verified Listing,Cedar,2,2,1020,"$2,364",Now offering $500 off select apartment homes AND $99 application and administration fee special!!! Call today to schedule your tour and learn more today!!!,"1,250",availibility Now
+Flats at North Springs,"6850 Peachtree Dunwoody Rd, Sandy Springs, GA 30328 Sandy Springs",4.2 (115 reviews) Verified Listing,Cedar,2,2,1019,"$2,339",Now offering $500 off select apartment homes AND $99 application and administration fee special!!! Call today to schedule your tour and learn more today!!!,"1,250",availibility Oct. 17
+Flats at North Springs,"6850 Peachtree Dunwoody Rd, Sandy Springs, GA 30328 Sandy Springs",4.2 (115 reviews) Verified Listing,Redwood 3,3,2,0920,"$2,713",Now offering $500 off select apartment homes AND $99 application and administration fee special!!! Call today to schedule your tour and learn more today!!!,"1,682",availibility Now
+Flats at North Springs,"6850 Peachtree Dunwoody Rd, Sandy Springs, GA 30328 Sandy Springs",4.2 (115 reviews) Verified Listing,Redwood 3,3,2,0921,"$2,603",Now offering $500 off select apartment homes AND $99 application and administration fee special!!! Call today to schedule your tour and learn more today!!!,"1,682",availibility Oct. 4
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,Studio 655 sqft S1A,Studio,1,424,"$1,495",,655,availibility Now
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,Studio 655 sqft S1A,Studio,1,628,"$1,515",,655,availibility Now
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,Studio 655 sqft S1A,Studio,1,624,"$1,515",,655,availibility Now
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,Studio 655 sqft S1A,Studio,1,304,"$1,485",,655,availibility Oct. 4
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,Studio 655 sqft S1A,Studio,1,508,"$1,505",,655,availibility Oct. 21
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,Studio 679 sqft S1,Studio,1,426,"$1,520",,679,availibility Now
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,Studio 679 sqft S1,Studio,1,606,"$1,540",,679,availibility Now
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,Studio 679 sqft S1,Studio,1,626,"$1,540",,679,availibility Now
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,Studio 679 sqft S1,Studio,1,526,"$1,530",,679,availibility Sep. 29
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,Studio 679 sqft S1,Studio,1,326,"$1,510",,679,availibility Nov. 27
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,1 Bedroom 1 Bath 735 sqft A2,1,1,444,"$1,610",,735,availibility Dec. 14
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,2 Bedroom 2 Bath 1058 sqft B1,2,2,239,"$2,040",,"1,058",availibility Now
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,2 Bedroom 2 Bath 1058 sqft B1,2,2,323,"$2,070",,"1,058",availibility Now
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,2 Bedroom 2 Bath 1058 sqft B1,2,2,325,"$2,070",,"1,058",availibility Now
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,2 Bedroom 2 Bath 1058 sqft B1,2,2,351,"$2,070",,"1,058",availibility Now
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,2 Bedroom 2 Bath 1058 sqft B1,2,2,423,"$2,080",,"1,058",availibility Now
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,2 Bedroom 2 Bath 1058 sqft B1,2,2,451,"$2,080",,"1,058",availibility Now
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,2 Bedroom 2 Bath 1058 sqft B1,2,2,529,"$2,090",,"1,058",availibility Now
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,2 Bedroom 2 Bath 1058 sqft B1,2,2,549,"$2,090",,"1,058",availibility Now
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,2 Bedroom 2 Bath 1058 sqft B1,2,2,625,"$2,100",,"1,058",availibility Now
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,2 Bedroom 2 Bath 1058 sqft B1,2,2,123,"$2,150",,"1,058",availibility Now
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,2 Bedroom 2 Bath 1058 sqft B1,2,2,327,"$2,070",,"1,058",availibility Sep. 29
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,2 Bedroom 2 Bath 1058 sqft B1,2,2,525,"$2,090",,"1,058",availibility Nov. 13
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,2 Bedroom 2 Bath 1058 sqft B1,2,2,249,"$2,065",,"1,058",availibility Dec. 15
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,2 Bedroom 2 Bath 1107 sqft B2,2,2,207,"$2,065",,"1,107",availibility Now
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,2 Bedroom 2 Bath 1107 sqft B2,2,2,109,"$2,150",,"1,107",availibility Now
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,2 Bedroom 2 Bath 1107 sqft B2,2,2,115,"$2,150",,"1,107",availibility Now
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,2 Bedroom 2 Bath 1107 sqft B2,2,2,615,"$2,100",,"1,107",availibility Oct. 29
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,2 Bedroom 2 Bath 1107 sqft B2,2,2,119,"$2,150",,"1,107",availibility Nov. 6
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,2 Bedroom 2 Bath 1117 sqft B5,2,2,237,"$1,970",,"1,117",availibility Oct. 27
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,2 Bedroom 2 Bath 1339 sqft B4,2,2,522,"$2,230",,"1,339",availibility Nov. 27
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,3 Bedroom 2 Bath 1370 sqft C1,3,2,121,"$2,695",,"1,370",availibility Now
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,Studio 655 sqft S1A,Studio,1,424,"$1,495",,655,availibility Now
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,Studio 655 sqft S1A,Studio,1,628,"$1,515",,655,availibility Now
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,Studio 655 sqft S1A,Studio,1,624,"$1,515",,655,availibility Now
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,Studio 655 sqft S1A,Studio,1,304,"$1,485",,655,availibility Oct. 4
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,Studio 655 sqft S1A,Studio,1,508,"$1,505",,655,availibility Oct. 21
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,Studio 679 sqft S1,Studio,1,426,"$1,520",,679,availibility Now
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,Studio 679 sqft S1,Studio,1,606,"$1,540",,679,availibility Now
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,Studio 679 sqft S1,Studio,1,626,"$1,540",,679,availibility Now
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,Studio 679 sqft S1,Studio,1,526,"$1,530",,679,availibility Sep. 29
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,Studio 679 sqft S1,Studio,1,326,"$1,510",,679,availibility Nov. 27
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,1 Bedroom 1 Bath 735 sqft A2,1,1,444,"$1,610",,735,availibility Dec. 14
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,2 Bedroom 2 Bath 1058 sqft B1,2,2,239,"$2,040",,"1,058",availibility Now
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,2 Bedroom 2 Bath 1058 sqft B1,2,2,323,"$2,070",,"1,058",availibility Now
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,2 Bedroom 2 Bath 1058 sqft B1,2,2,325,"$2,070",,"1,058",availibility Now
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,2 Bedroom 2 Bath 1058 sqft B1,2,2,351,"$2,070",,"1,058",availibility Now
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,2 Bedroom 2 Bath 1058 sqft B1,2,2,423,"$2,080",,"1,058",availibility Now
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,2 Bedroom 2 Bath 1058 sqft B1,2,2,451,"$2,080",,"1,058",availibility Now
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,2 Bedroom 2 Bath 1058 sqft B1,2,2,529,"$2,090",,"1,058",availibility Now
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,2 Bedroom 2 Bath 1058 sqft B1,2,2,549,"$2,090",,"1,058",availibility Now
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,2 Bedroom 2 Bath 1058 sqft B1,2,2,625,"$2,100",,"1,058",availibility Now
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,2 Bedroom 2 Bath 1058 sqft B1,2,2,123,"$2,150",,"1,058",availibility Now
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,2 Bedroom 2 Bath 1058 sqft B1,2,2,327,"$2,070",,"1,058",availibility Sep. 29
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,2 Bedroom 2 Bath 1058 sqft B1,2,2,525,"$2,090",,"1,058",availibility Nov. 13
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,2 Bedroom 2 Bath 1058 sqft B1,2,2,249,"$2,065",,"1,058",availibility Dec. 15
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,2 Bedroom 2 Bath 1107 sqft B2,2,2,207,"$2,065",,"1,107",availibility Now
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,2 Bedroom 2 Bath 1107 sqft B2,2,2,109,"$2,150",,"1,107",availibility Now
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,2 Bedroom 2 Bath 1107 sqft B2,2,2,115,"$2,150",,"1,107",availibility Now
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,2 Bedroom 2 Bath 1107 sqft B2,2,2,615,"$2,100",,"1,107",availibility Oct. 29
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,2 Bedroom 2 Bath 1107 sqft B2,2,2,119,"$2,150",,"1,107",availibility Nov. 6
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,2 Bedroom 2 Bath 1117 sqft B5,2,2,237,"$1,970",,"1,117",availibility Oct. 27
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,2 Bedroom 2 Bath 1339 sqft B4,2,2,522,"$2,230",,"1,339",availibility Nov. 27
+The Cliftwood,"185 Cliftwood Dr NE, Atlanta, GA 30328 Downtown Sandy Springs",5.0 (1 review) Verified Listing,3 Bedroom 2 Bath 1370 sqft C1,3,2,121,"$2,695",,"1,370",availibility Now
+The Drexel Collective,"100 Drexel Pt, Atlanta, GA 30346 Dunwoody",4.2 (18 reviews) Verified Listing,A2 L,1,1,Lofts 4-4206,"$1,367",,770,availibility Now
+The Drexel Collective,"100 Drexel Pt, Atlanta, GA 30346 Dunwoody",4.2 (18 reviews) Verified Listing,A2 L,1,1,Lofts 9-9401,"$1,427",,770,availibility Oct. 2
+The Drexel Collective,"100 Drexel Pt, Atlanta, GA 30346 Dunwoody",4.2 (18 reviews) Verified Listing,A1,1,1,5-5305,"$1,414",,895,availibility Now
+The Drexel Collective,"100 Drexel Pt, Atlanta, GA 30346 Dunwoody",4.2 (18 reviews) Verified Listing,A1 L,1,1,Lofts 9-9205,"$1,452",,632,availibility Now
+The Drexel Collective,"100 Drexel Pt, Atlanta, GA 30346 Dunwoody",4.2 (18 reviews) Verified Listing,A2 Loft H,1,1,9-09064,"$1,745",,893,availibility Now
+The Drexel Collective,"100 Drexel Pt, Atlanta, GA 30346 Dunwoody",4.2 (18 reviews) Verified Listing,A6A L,1,1,Lofts 2-2101,"$1,417",,770,availibility Oct. 10
+The Drexel Collective,"100 Drexel Pt, Atlanta, GA 30346 Dunwoody",4.2 (18 reviews) Verified Listing,B1,2,2,4-4302,"$1,867",,"1,251",availibility Now
+The Drexel Collective,"100 Drexel Pt, Atlanta, GA 30346 Dunwoody",4.2 (18 reviews) Verified Listing,B1,2,2,5-5508,"$2,017",,"1,251",availibility Nov. 4
+The Drexel Collective,"100 Drexel Pt, Atlanta, GA 30346 Dunwoody",4.2 (18 reviews) Verified Listing,B1A,2,2,4-4303,"$1,876",,"1,251",availibility Now
+The Drexel Collective,"100 Drexel Pt, Atlanta, GA 30346 Dunwoody",4.2 (18 reviews) Verified Listing,B1A,2,2,4-4207,"$1,995",,"1,251",availibility Now
+The Drexel Collective,"100 Drexel Pt, Atlanta, GA 30346 Dunwoody",4.2 (18 reviews) Verified Listing,B1A,2,2,1-1306,"$1,966",,"1,251",availibility Oct. 1
+The Drexel Collective,"100 Drexel Pt, Atlanta, GA 30346 Dunwoody",4.2 (18 reviews) Verified Listing,B1 Loft H,2,2,2-02046,"$1,931",,"1,165",availibility Now
+The Drexel Collective,"100 Drexel Pt, Atlanta, GA 30346 Dunwoody",4.2 (18 reviews) Verified Listing,B5,2,2,2-2503,"$2,629",,"1,654",availibility Now
+The Drexel Collective,"100 Drexel Pt, Atlanta, GA 30346 Dunwoody",4.2 (18 reviews) Verified Listing,B6 Loft L,2,2,Lofts 3-3504,"$2,034",,"1,342",availibility Sep. 29
+The Drexel Collective,"100 Drexel Pt, Atlanta, GA 30346 Dunwoody",4.2 (18 reviews) Verified Listing,B2,2,2,1-1302,"$2,101",,"1,447",availibility Oct. 13
+The Drexel Collective,"100 Drexel Pt, Atlanta, GA 30346 Dunwoody",4.2 (18 reviews) Verified Listing,B2,2,2,1-1501,"$2,187",,"1,447",availibility Oct. 15
+The Drexel Collective,"100 Drexel Pt, Atlanta, GA 30346 Dunwoody",4.2 (18 reviews) Verified Listing,B2,2,2,1-1202,"$2,106",,"1,447",availibility Oct. 16
+The Drexel Collective,"100 Drexel Pt, Atlanta, GA 30346 Dunwoody",4.2 (18 reviews) Verified Listing,A2 L,1,1,Lofts 4-4206,"$1,367",,770,availibility Now
+The Drexel Collective,"100 Drexel Pt, Atlanta, GA 30346 Dunwoody",4.2 (18 reviews) Verified Listing,A2 L,1,1,Lofts 9-9401,"$1,427",,770,availibility Oct. 2
+The Drexel Collective,"100 Drexel Pt, Atlanta, GA 30346 Dunwoody",4.2 (18 reviews) Verified Listing,A1,1,1,5-5305,"$1,414",,895,availibility Now
+The Drexel Collective,"100 Drexel Pt, Atlanta, GA 30346 Dunwoody",4.2 (18 reviews) Verified Listing,A1 L,1,1,Lofts 9-9205,"$1,452",,632,availibility Now
+The Drexel Collective,"100 Drexel Pt, Atlanta, GA 30346 Dunwoody",4.2 (18 reviews) Verified Listing,A2 Loft H,1,1,9-09064,"$1,745",,893,availibility Now
+The Drexel Collective,"100 Drexel Pt, Atlanta, GA 30346 Dunwoody",4.2 (18 reviews) Verified Listing,A6A L,1,1,Lofts 2-2101,"$1,417",,770,availibility Oct. 10
+The Drexel Collective,"100 Drexel Pt, Atlanta, GA 30346 Dunwoody",4.2 (18 reviews) Verified Listing,B1,2,2,4-4302,"$1,867",,"1,251",availibility Now
+The Drexel Collective,"100 Drexel Pt, Atlanta, GA 30346 Dunwoody",4.2 (18 reviews) Verified Listing,B1,2,2,5-5508,"$2,017",,"1,251",availibility Nov. 4
+The Drexel Collective,"100 Drexel Pt, Atlanta, GA 30346 Dunwoody",4.2 (18 reviews) Verified Listing,B1A,2,2,4-4303,"$1,876",,"1,251",availibility Now
+The Drexel Collective,"100 Drexel Pt, Atlanta, GA 30346 Dunwoody",4.2 (18 reviews) Verified Listing,B1A,2,2,4-4207,"$1,995",,"1,251",availibility Now
+The Drexel Collective,"100 Drexel Pt, Atlanta, GA 30346 Dunwoody",4.2 (18 reviews) Verified Listing,B1A,2,2,1-1306,"$1,966",,"1,251",availibility Oct. 1
+The Drexel Collective,"100 Drexel Pt, Atlanta, GA 30346 Dunwoody",4.2 (18 reviews) Verified Listing,B1 Loft H,2,2,2-02046,"$1,931",,"1,165",availibility Now
+The Drexel Collective,"100 Drexel Pt, Atlanta, GA 30346 Dunwoody",4.2 (18 reviews) Verified Listing,B5,2,2,2-2503,"$2,629",,"1,654",availibility Now
+The Drexel Collective,"100 Drexel Pt, Atlanta, GA 30346 Dunwoody",4.2 (18 reviews) Verified Listing,B6 Loft L,2,2,Lofts 3-3504,"$2,034",,"1,342",availibility Sep. 29
+The Drexel Collective,"100 Drexel Pt, Atlanta, GA 30346 Dunwoody",4.2 (18 reviews) Verified Listing,B2,2,2,1-1302,"$2,101",,"1,447",availibility Oct. 13
+The Drexel Collective,"100 Drexel Pt, Atlanta, GA 30346 Dunwoody",4.2 (18 reviews) Verified Listing,B2,2,2,1-1501,"$2,187",,"1,447",availibility Oct. 15
+The Drexel Collective,"100 Drexel Pt, Atlanta, GA 30346 Dunwoody",4.2 (18 reviews) Verified Listing,B2,2,2,1-1202,"$2,106",,"1,447",availibility Oct. 16
+Perimeter Gardens at Georgetown,"100 Azalea Gardens Dr, Dunwoody, GA 30338 Dunwoody",5.0 (4 reviews) Verified Listing,A1 (Solo),1,1,3007,"$1,340",,687,availibility Now
+Perimeter Gardens at Georgetown,"100 Azalea Gardens Dr, Dunwoody, GA 30338 Dunwoody",5.0 (4 reviews) Verified Listing,A2 (Pathway),1,1,2201,"$1,373",,697,availibility Now
+Perimeter Gardens at Georgetown,"100 Azalea Gardens Dr, Dunwoody, GA 30338 Dunwoody",5.0 (4 reviews) Verified Listing,A2 (Pathway),1,1,5106,"$1,373",,697,availibility Now
+Perimeter Gardens at Georgetown,"100 Azalea Gardens Dr, Dunwoody, GA 30338 Dunwoody",5.0 (4 reviews) Verified Listing,A2 (Pathway),1,1,1402,"$1,403",,697,availibility Now
+Perimeter Gardens at Georgetown,"100 Azalea Gardens Dr, Dunwoody, GA 30338 Dunwoody",5.0 (4 reviews) Verified Listing,A2 (Pathway),1,1,7107,"$1,403",,697,availibility Now
+Perimeter Gardens at Georgetown,"100 Azalea Gardens Dr, Dunwoody, GA 30338 Dunwoody",5.0 (4 reviews) Verified Listing,A2 (Pathway),1,1,2301,"$1,452",,697,availibility Now
+Perimeter Gardens at Georgetown,"100 Azalea Gardens Dr, Dunwoody, GA 30338 Dunwoody",5.0 (4 reviews) Verified Listing,A6 (Concourse),1,1,3107,"$1,427",,816,availibility Now
+Perimeter Gardens at Georgetown,"100 Azalea Gardens Dr, Dunwoody, GA 30338 Dunwoody",5.0 (4 reviews) Verified Listing,A8 (Alliance),1,1,7008,"$1,471",,870,availibility Now
+Perimeter Gardens at Georgetown,"100 Azalea Gardens Dr, Dunwoody, GA 30338 Dunwoody",5.0 (4 reviews) Verified Listing,A8 (Alliance),1,1,8002,"$1,518",,870,availibility Now
+Perimeter Gardens at Georgetown,"100 Azalea Gardens Dr, Dunwoody, GA 30338 Dunwoody",5.0 (4 reviews) Verified Listing,A8 (Alliance),1,1,8305,"$1,552",,870,availibility Oct. 7
+Perimeter Gardens at Georgetown,"100 Azalea Gardens Dr, Dunwoody, GA 30338 Dunwoody",5.0 (4 reviews) Verified Listing,A9 (Sunroom Alliance),1,1,3009,"$1,731",,979,availibility Now
+Perimeter Gardens at Georgetown,"100 Azalea Gardens Dr, Dunwoody, GA 30338 Dunwoody",5.0 (4 reviews) Verified Listing,A9 (Sunroom Alliance),1,1,2403,"$1,744",,979,availibility Now
+Perimeter Gardens at Georgetown,"100 Azalea Gardens Dr, Dunwoody, GA 30338 Dunwoody",5.0 (4 reviews) Verified Listing,A4 (Sunroom Pathway),1,1,3106,"$1,487",,805,availibility Oct. 6
+Perimeter Gardens at Georgetown,"100 Azalea Gardens Dr, Dunwoody, GA 30338 Dunwoody",5.0 (4 reviews) Verified Listing,A5 (Synthesis),1,1,3208,"$1,557",,814,availibility Nov. 7
+Perimeter Gardens at Georgetown,"100 Azalea Gardens Dr, Dunwoody, GA 30338 Dunwoody",5.0 (4 reviews) Verified Listing,B4 (Sunroom Crossroads),2,2,6202,"$1,931",,"1,322",availibility Now
+Perimeter Gardens at Georgetown,"100 Azalea Gardens Dr, Dunwoody, GA 30338 Dunwoody",5.0 (4 reviews) Verified Listing,B4 (Sunroom Crossroads),2,2,2302,"$1,961",,"1,322",availibility Now
+Perimeter Gardens at Georgetown,"100 Azalea Gardens Dr, Dunwoody, GA 30338 Dunwoody",5.0 (4 reviews) Verified Listing,B4 (Sunroom Crossroads),2,2,7302,"$2,011",,"1,322",availibility Now
+Perimeter Gardens at Georgetown,"100 Azalea Gardens Dr, Dunwoody, GA 30338 Dunwoody",5.0 (4 reviews) Verified Listing,B4 (Sunroom Crossroads),2,2,5202,"$2,036",,"1,322",availibility Now
+Perimeter Gardens at Georgetown,"100 Azalea Gardens Dr, Dunwoody, GA 30338 Dunwoody",5.0 (4 reviews) Verified Listing,B3 (Intersection),2,2,6201,"$2,069",,"1,223",availibility Now
+Perimeter Gardens at Georgetown,"100 Azalea Gardens Dr, Dunwoody, GA 30338 Dunwoody",5.0 (4 reviews) Verified Listing,B3 (Intersection),2,2,4102,"$2,108",,"1,223",availibility Sep. 29
+Perimeter Gardens at Georgetown,"100 Azalea Gardens Dr, Dunwoody, GA 30338 Dunwoody",5.0 (4 reviews) Verified Listing,B2 (Crossroads),2,2,5301,"$2,210",,"1,195",availibility Oct. 6
+Perimeter Gardens at Georgetown,"100 Azalea Gardens Dr, Dunwoody, GA 30338 Dunwoody",5.0 (4 reviews) Verified Listing,A1 (Solo),1,1,3007,"$1,340",,687,availibility Now
+Perimeter Gardens at Georgetown,"100 Azalea Gardens Dr, Dunwoody, GA 30338 Dunwoody",5.0 (4 reviews) Verified Listing,A2 (Pathway),1,1,2201,"$1,373",,697,availibility Now
+Perimeter Gardens at Georgetown,"100 Azalea Gardens Dr, Dunwoody, GA 30338 Dunwoody",5.0 (4 reviews) Verified Listing,A2 (Pathway),1,1,5106,"$1,373",,697,availibility Now
+Perimeter Gardens at Georgetown,"100 Azalea Gardens Dr, Dunwoody, GA 30338 Dunwoody",5.0 (4 reviews) Verified Listing,A2 (Pathway),1,1,1402,"$1,403",,697,availibility Now
+Perimeter Gardens at Georgetown,"100 Azalea Gardens Dr, Dunwoody, GA 30338 Dunwoody",5.0 (4 reviews) Verified Listing,A2 (Pathway),1,1,7107,"$1,403",,697,availibility Now
+Perimeter Gardens at Georgetown,"100 Azalea Gardens Dr, Dunwoody, GA 30338 Dunwoody",5.0 (4 reviews) Verified Listing,A2 (Pathway),1,1,2301,"$1,452",,697,availibility Now
+Perimeter Gardens at Georgetown,"100 Azalea Gardens Dr, Dunwoody, GA 30338 Dunwoody",5.0 (4 reviews) Verified Listing,A6 (Concourse),1,1,3107,"$1,427",,816,availibility Now
+Perimeter Gardens at Georgetown,"100 Azalea Gardens Dr, Dunwoody, GA 30338 Dunwoody",5.0 (4 reviews) Verified Listing,A8 (Alliance),1,1,7008,"$1,471",,870,availibility Now
+Perimeter Gardens at Georgetown,"100 Azalea Gardens Dr, Dunwoody, GA 30338 Dunwoody",5.0 (4 reviews) Verified Listing,A8 (Alliance),1,1,8002,"$1,518",,870,availibility Now
+Perimeter Gardens at Georgetown,"100 Azalea Gardens Dr, Dunwoody, GA 30338 Dunwoody",5.0 (4 reviews) Verified Listing,A8 (Alliance),1,1,8305,"$1,552",,870,availibility Oct. 7
+Perimeter Gardens at Georgetown,"100 Azalea Gardens Dr, Dunwoody, GA 30338 Dunwoody",5.0 (4 reviews) Verified Listing,A9 (Sunroom Alliance),1,1,3009,"$1,731",,979,availibility Now
+Perimeter Gardens at Georgetown,"100 Azalea Gardens Dr, Dunwoody, GA 30338 Dunwoody",5.0 (4 reviews) Verified Listing,A9 (Sunroom Alliance),1,1,2403,"$1,744",,979,availibility Now
+Perimeter Gardens at Georgetown,"100 Azalea Gardens Dr, Dunwoody, GA 30338 Dunwoody",5.0 (4 reviews) Verified Listing,A4 (Sunroom Pathway),1,1,3106,"$1,487",,805,availibility Oct. 6
+Perimeter Gardens at Georgetown,"100 Azalea Gardens Dr, Dunwoody, GA 30338 Dunwoody",5.0 (4 reviews) Verified Listing,A5 (Synthesis),1,1,3208,"$1,557",,814,availibility Nov. 7
+Perimeter Gardens at Georgetown,"100 Azalea Gardens Dr, Dunwoody, GA 30338 Dunwoody",5.0 (4 reviews) Verified Listing,B4 (Sunroom Crossroads),2,2,6202,"$1,931",,"1,322",availibility Now
+Perimeter Gardens at Georgetown,"100 Azalea Gardens Dr, Dunwoody, GA 30338 Dunwoody",5.0 (4 reviews) Verified Listing,B4 (Sunroom Crossroads),2,2,2302,"$1,961",,"1,322",availibility Now
+Perimeter Gardens at Georgetown,"100 Azalea Gardens Dr, Dunwoody, GA 30338 Dunwoody",5.0 (4 reviews) Verified Listing,B4 (Sunroom Crossroads),2,2,7302,"$2,011",,"1,322",availibility Now
+Perimeter Gardens at Georgetown,"100 Azalea Gardens Dr, Dunwoody, GA 30338 Dunwoody",5.0 (4 reviews) Verified Listing,B4 (Sunroom Crossroads),2,2,5202,"$2,036",,"1,322",availibility Now
+Perimeter Gardens at Georgetown,"100 Azalea Gardens Dr, Dunwoody, GA 30338 Dunwoody",5.0 (4 reviews) Verified Listing,B3 (Intersection),2,2,6201,"$2,069",,"1,223",availibility Now
+Perimeter Gardens at Georgetown,"100 Azalea Gardens Dr, Dunwoody, GA 30338 Dunwoody",5.0 (4 reviews) Verified Listing,B3 (Intersection),2,2,4102,"$2,108",,"1,223",availibility Sep. 29
+Perimeter Gardens at Georgetown,"100 Azalea Gardens Dr, Dunwoody, GA 30338 Dunwoody",5.0 (4 reviews) Verified Listing,B2 (Crossroads),2,2,5301,"$2,210",,"1,195",availibility Oct. 6
+Bell Glenridge,"111 Glenridge Point Pky NE, Sandy Springs, GA 30342 Perimeter Center",4.8 (34 reviews) Verified Listing,A1A,1,1,1218,"$1,615",,622,availibility Now
+Bell Glenridge,"111 Glenridge Point Pky NE, Sandy Springs, GA 30342 Perimeter Center",4.8 (34 reviews) Verified Listing,A1L,1,1,2105,"$1,760",,854,availibility Now
+Bell Glenridge,"111 Glenridge Point Pky NE, Sandy Springs, GA 30342 Perimeter Center",4.8 (34 reviews) Verified Listing,A1L,1,1,2504,"$1,855",,854,availibility Sep. 29
+Bell Glenridge,"111 Glenridge Point Pky NE, Sandy Springs, GA 30342 Perimeter Center",4.8 (34 reviews) Verified Listing,A1L,1,1,2305,"$1,790",,854,availibility Nov. 13
+Bell Glenridge,"111 Glenridge Point Pky NE, Sandy Springs, GA 30342 Perimeter Center",4.8 (34 reviews) Verified Listing,A1F,1,1,1617,"$1,715",,730,availibility Oct. 9
+Bell Glenridge,"111 Glenridge Point Pky NE, Sandy Springs, GA 30342 Perimeter Center",4.8 (34 reviews) Verified Listing,A1F,1,1,1318,"$1,795",,757,availibility Oct. 12
+Bell Glenridge,"111 Glenridge Point Pky NE, Sandy Springs, GA 30342 Perimeter Center",4.8 (34 reviews) Verified Listing,A1F,1,1,1702,"$1,875",,772,availibility Nov. 29
+Bell Glenridge,"111 Glenridge Point Pky NE, Sandy Springs, GA 30342 Perimeter Center",4.8 (34 reviews) Verified Listing,A1J,1,1,1723,"$1,785",,777,availibility Oct. 10
+Bell Glenridge,"111 Glenridge Point Pky NE, Sandy Springs, GA 30342 Perimeter Center",4.8 (34 reviews) Verified Listing,A1J,1,1,1623,"$1,750",,777,availibility Oct. 16
+Bell Glenridge,"111 Glenridge Point Pky NE, Sandy Springs, GA 30342 Perimeter Center",4.8 (34 reviews) Verified Listing,A1B,1,1,1220,"$1,720",,638,availibility Nov. 1
+Bell Glenridge,"111 Glenridge Point Pky NE, Sandy Springs, GA 30342 Perimeter Center",4.8 (34 reviews) Verified Listing,B2C,2,2,1406,"$2,200",,"1,055",availibility Now
+Bell Glenridge,"111 Glenridge Point Pky NE, Sandy Springs, GA 30342 Perimeter Center",4.8 (34 reviews) Verified Listing,A1A,1,1,1218,"$1,615",,622,availibility Now
+Bell Glenridge,"111 Glenridge Point Pky NE, Sandy Springs, GA 30342 Perimeter Center",4.8 (34 reviews) Verified Listing,A1L,1,1,2105,"$1,760",,854,availibility Now
+Bell Glenridge,"111 Glenridge Point Pky NE, Sandy Springs, GA 30342 Perimeter Center",4.8 (34 reviews) Verified Listing,A1L,1,1,2504,"$1,855",,854,availibility Sep. 29
+Bell Glenridge,"111 Glenridge Point Pky NE, Sandy Springs, GA 30342 Perimeter Center",4.8 (34 reviews) Verified Listing,A1L,1,1,2305,"$1,790",,854,availibility Nov. 13
+Bell Glenridge,"111 Glenridge Point Pky NE, Sandy Springs, GA 30342 Perimeter Center",4.8 (34 reviews) Verified Listing,A1F,1,1,1617,"$1,715",,730,availibility Oct. 9
+Bell Glenridge,"111 Glenridge Point Pky NE, Sandy Springs, GA 30342 Perimeter Center",4.8 (34 reviews) Verified Listing,A1F,1,1,1318,"$1,795",,757,availibility Oct. 12
+Bell Glenridge,"111 Glenridge Point Pky NE, Sandy Springs, GA 30342 Perimeter Center",4.8 (34 reviews) Verified Listing,A1F,1,1,1702,"$1,875",,772,availibility Nov. 29
+Bell Glenridge,"111 Glenridge Point Pky NE, Sandy Springs, GA 30342 Perimeter Center",4.8 (34 reviews) Verified Listing,A1J,1,1,1723,"$1,785",,777,availibility Oct. 10
+Bell Glenridge,"111 Glenridge Point Pky NE, Sandy Springs, GA 30342 Perimeter Center",4.8 (34 reviews) Verified Listing,A1J,1,1,1623,"$1,750",,777,availibility Oct. 16
+Bell Glenridge,"111 Glenridge Point Pky NE, Sandy Springs, GA 30342 Perimeter Center",4.8 (34 reviews) Verified Listing,A1B,1,1,1220,"$1,720",,638,availibility Nov. 1
+Bell Glenridge,"111 Glenridge Point Pky NE, Sandy Springs, GA 30342 Perimeter Center",4.8 (34 reviews) Verified Listing,B2C,2,2,1406,"$2,200",,"1,055",availibility Now
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Peridot,1,1,602,"$1,717",1 Month of FREE RENT on ALL Apartments!!,733,availibility Now
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Peridot,1,1,122,"$1,647",1 Month of FREE RENT on ALL Apartments!!,733,availibility Oct. 12
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Peridot,1,1,129,"$1,612",1 Month of FREE RENT on ALL Apartments!!,733,availibility Oct. 13
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Peridot,1,1,546,"$1,677",1 Month of FREE RENT on ALL Apartments!!,733,availibility Nov. 22
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Opal,1,1,110,"$1,778",1 Month of FREE RENT on ALL Apartments!!,898,availibility Now
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Opal,1,1,111,"$1,788",1 Month of FREE RENT on ALL Apartments!!,898,availibility Now
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Opal,1,1,408,"$1,903",1 Month of FREE RENT on ALL Apartments!!,898,availibility Oct. 20
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Opal,1,1,525,"$1,913",1 Month of FREE RENT on ALL Apartments!!,898,availibility Nov. 17
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Opal,1,1,426,"$1,778",1 Month of FREE RENT on ALL Apartments!!,898,availibility Nov. 30
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Garnet,1,1,333,"$2,015",1 Month of FREE RENT on ALL Apartments!!,898,availibility Now
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Garnet,1,1,433,"$1,825",1 Month of FREE RENT on ALL Apartments!!,898,availibility Nov. 1
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Pearl,1,1,216,"$2,070",1 Month of FREE RENT on ALL Apartments!!,898,availibility Now
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Pearl,1,1,203,"$2,020",1 Month of FREE RENT on ALL Apartments!!,898,availibility Oct. 11
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Pearl,1,1,217,"$2,000",1 Month of FREE RENT on ALL Apartments!!,898,availibility Oct. 27
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Pearl,1,1,237,"$2,030",1 Month of FREE RENT on ALL Apartments!!,898,availibility Oct. 31
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Pearl,1,1,211,"$2,000",1 Month of FREE RENT on ALL Apartments!!,898,availibility Nov. 2
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Jade,1,1,524,"$1,858",1 Month of FREE RENT on ALL Apartments!!,640,availibility Oct. 28
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Citrine,1,1,331,"$1,646",1 Month of FREE RENT on ALL Apartments!!,749,availibility Nov. 10
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Ruby,2,2,231,"$2,261",1 Month of FREE RENT on ALL Apartments!!,"1,242",availibility Now
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Ruby,2,2,315,"$2,286",1 Month of FREE RENT on ALL Apartments!!,"1,242",availibility Now
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Emerald,2,2,538,"$2,644",1 Month of FREE RENT on ALL Apartments!!,"1,312",availibility Now
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Sapphire,2,2,219,"$2,725",1 Month of FREE RENT on ALL Apartments!!,"1,270",availibility Now
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Diamond,2,2,507,"$2,784",1 Month of FREE RENT on ALL Apartments!!,"1,323",availibility Now
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Diamond,2,2,407,"$2,749",1 Month of FREE RENT on ALL Apartments!!,"1,323",availibility Oct. 7
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Topaz,2,2,505,"$2,235",1 Month of FREE RENT on ALL Apartments!!,"1,046",availibility Sep. 30
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Amethyst,2,2,435,"$2,327",1 Month of FREE RENT on ALL Apartments!!,"1,210",availibility Oct. 7
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Amethyst,2,2,332,"$2,347",1 Month of FREE RENT on ALL Apartments!!,"1,210",availibility Oct. 11
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Amethyst,2,2,222,"$2,352",1 Month of FREE RENT on ALL Apartments!!,"1,210",availibility Oct. 12
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Amethyst,2,2,532,"$2,362",1 Month of FREE RENT on ALL Apartments!!,"1,210",availibility Oct. 20
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Peridot,1,1,602,"$1,717",1 Month of FREE RENT on ALL Apartments!!,733,availibility Now
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Peridot,1,1,122,"$1,647",1 Month of FREE RENT on ALL Apartments!!,733,availibility Oct. 12
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Peridot,1,1,129,"$1,612",1 Month of FREE RENT on ALL Apartments!!,733,availibility Oct. 13
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Peridot,1,1,546,"$1,677",1 Month of FREE RENT on ALL Apartments!!,733,availibility Nov. 22
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Opal,1,1,110,"$1,778",1 Month of FREE RENT on ALL Apartments!!,898,availibility Now
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Opal,1,1,111,"$1,788",1 Month of FREE RENT on ALL Apartments!!,898,availibility Now
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Opal,1,1,408,"$1,903",1 Month of FREE RENT on ALL Apartments!!,898,availibility Oct. 20
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Opal,1,1,525,"$1,913",1 Month of FREE RENT on ALL Apartments!!,898,availibility Nov. 17
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Opal,1,1,426,"$1,778",1 Month of FREE RENT on ALL Apartments!!,898,availibility Nov. 30
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Garnet,1,1,333,"$2,015",1 Month of FREE RENT on ALL Apartments!!,898,availibility Now
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Garnet,1,1,433,"$1,825",1 Month of FREE RENT on ALL Apartments!!,898,availibility Nov. 1
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Pearl,1,1,216,"$2,070",1 Month of FREE RENT on ALL Apartments!!,898,availibility Now
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Pearl,1,1,203,"$2,020",1 Month of FREE RENT on ALL Apartments!!,898,availibility Oct. 11
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Pearl,1,1,217,"$2,000",1 Month of FREE RENT on ALL Apartments!!,898,availibility Oct. 27
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Pearl,1,1,237,"$2,030",1 Month of FREE RENT on ALL Apartments!!,898,availibility Oct. 31
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Pearl,1,1,211,"$2,000",1 Month of FREE RENT on ALL Apartments!!,898,availibility Nov. 2
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Jade,1,1,524,"$1,858",1 Month of FREE RENT on ALL Apartments!!,640,availibility Oct. 28
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Citrine,1,1,331,"$1,646",1 Month of FREE RENT on ALL Apartments!!,749,availibility Nov. 10
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Ruby,2,2,231,"$2,261",1 Month of FREE RENT on ALL Apartments!!,"1,242",availibility Now
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Ruby,2,2,315,"$2,286",1 Month of FREE RENT on ALL Apartments!!,"1,242",availibility Now
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Emerald,2,2,538,"$2,644",1 Month of FREE RENT on ALL Apartments!!,"1,312",availibility Now
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Sapphire,2,2,219,"$2,725",1 Month of FREE RENT on ALL Apartments!!,"1,270",availibility Now
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Diamond,2,2,507,"$2,784",1 Month of FREE RENT on ALL Apartments!!,"1,323",availibility Now
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Diamond,2,2,407,"$2,749",1 Month of FREE RENT on ALL Apartments!!,"1,323",availibility Oct. 7
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Topaz,2,2,505,"$2,235",1 Month of FREE RENT on ALL Apartments!!,"1,046",availibility Sep. 30
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Amethyst,2,2,435,"$2,327",1 Month of FREE RENT on ALL Apartments!!,"1,210",availibility Oct. 7
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Amethyst,2,2,332,"$2,347",1 Month of FREE RENT on ALL Apartments!!,"1,210",availibility Oct. 11
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Amethyst,2,2,222,"$2,352",1 Month of FREE RENT on ALL Apartments!!,"1,210",availibility Oct. 12
+Linq at North Springs,"6919 Peachtree Dunwoody Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.6 (31 reviews) Verified Listing,Amethyst,2,2,532,"$2,362",1 Month of FREE RENT on ALL Apartments!!,"1,210",availibility Oct. 20
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,A2L,1,1,566,"$1,974",One Month Free! Call Today!,771,availibility Now
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,A2L,1,1,578,"$2,138",One Month Free! Call Today!,922,availibility Now
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,A2L,1,1,576,"$2,153",One Month Free! Call Today!,922,availibility Oct. 10
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,A2L,1,1,580,"$2,153",One Month Free! Call Today!,922,availibility Dec. 5
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,A12,1,1,323,"$1,723",One Month Free! Call Today!,719,availibility Oct. 1
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,A12,1,1,443,"$1,783",One Month Free! Call Today!,719,availibility Oct. 7
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,A7,1,1,514,"$1,793",One Month Free! Call Today!,758,availibility Oct. 6
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,A6L,1,1,584,"$2,093",One Month Free! Call Today!,798,availibility Oct. 7
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,A12L,1,1,579,"$2,113",One Month Free! Call Today!,814,availibility Nov. 1
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,A15,1,1,304,"$1,833",One Month Free! Call Today!,786,availibility Nov. 7
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,A6,1,1,484,"$1,838",One Month Free! Call Today!,708,availibility Nov. 7
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,A2,1,1,466,"$1,853",One Month Free! Call Today!,797,availibility Nov. 7
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,B7,2,2,403,"$2,267",One Month Free! Call Today!,"1,021",availibility Now
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,B7,2,2,303,"$2,349",One Month Free! Call Today!,"1,021",availibility Oct. 6
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,B7,2,2,503,"$2,294",One Month Free! Call Today!,"1,021",availibility Oct. 26
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,B2,2,2,141,"$2,330",One Month Free! Call Today!,"1,156",availibility Now
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,B2,2,2,410,"$2,350",One Month Free! Call Today!,"1,156",availibility Now
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,B2,2,2,448,"$2,334",One Month Free! Call Today!,"1,156",availibility Nov. 6
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,B2,2,2,364,"$2,324",One Month Free! Call Today!,"1,156",availibility Nov. 17
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,B2,2,2,524,"$2,344",One Month Free! Call Today!,"1,156",availibility Nov. 23
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,B2,2,2,272,"$2,314",One Month Free! Call Today!,"1,156",availibility Nov. 27
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,B3,2,2,142,"$2,419",One Month Free! Call Today!,"1,168",availibility Oct. 14
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,B3,2,2,306,"$2,429",One Month Free! Call Today!,"1,168",availibility Oct. 16
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,B3,2,2,519,"$2,394",One Month Free! Call Today!,"1,168",availibility Nov. 24
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,B5L,2,2,567,"$2,595",One Month Free! Call Today!,"1,092",availibility Oct. 16
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,B5,2,2,383,"$2,199",One Month Free! Call Today!,980,availibility Nov. 7
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,B5,2,2,483,"$2,209",One Month Free! Call Today!,980,availibility Nov. 20
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,B2L,2,2,568,"$2,659",One Month Free! Call Today!,"1,132",availibility Nov. 29
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,C2,3,2,444,"$2,615",One Month Free! Call Today!,"1,330",availibility Now
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,C2,3,2,244,"$2,833",One Month Free! Call Today!,"1,330",availibility Now
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,C2,3,2,337,"$2,841",One Month Free! Call Today!,"1,330",availibility Now
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,A2L,1,1,566,"$1,974",One Month Free! Call Today!,771,availibility Now
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,A2L,1,1,578,"$2,138",One Month Free! Call Today!,922,availibility Now
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,A2L,1,1,576,"$2,153",One Month Free! Call Today!,922,availibility Oct. 10
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,A2L,1,1,580,"$2,153",One Month Free! Call Today!,922,availibility Dec. 5
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,A12,1,1,323,"$1,723",One Month Free! Call Today!,719,availibility Oct. 1
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,A12,1,1,443,"$1,783",One Month Free! Call Today!,719,availibility Oct. 7
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,A7,1,1,514,"$1,793",One Month Free! Call Today!,758,availibility Oct. 6
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,A6L,1,1,584,"$2,093",One Month Free! Call Today!,798,availibility Oct. 7
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,A12L,1,1,579,"$2,113",One Month Free! Call Today!,814,availibility Nov. 1
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,A15,1,1,304,"$1,833",One Month Free! Call Today!,786,availibility Nov. 7
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,A6,1,1,484,"$1,838",One Month Free! Call Today!,708,availibility Nov. 7
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,A2,1,1,466,"$1,853",One Month Free! Call Today!,797,availibility Nov. 7
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,B7,2,2,403,"$2,267",One Month Free! Call Today!,"1,021",availibility Now
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,B7,2,2,303,"$2,349",One Month Free! Call Today!,"1,021",availibility Oct. 6
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,B7,2,2,503,"$2,294",One Month Free! Call Today!,"1,021",availibility Oct. 26
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,B2,2,2,141,"$2,330",One Month Free! Call Today!,"1,156",availibility Now
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,B2,2,2,410,"$2,350",One Month Free! Call Today!,"1,156",availibility Now
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,B2,2,2,448,"$2,334",One Month Free! Call Today!,"1,156",availibility Nov. 6
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,B2,2,2,364,"$2,324",One Month Free! Call Today!,"1,156",availibility Nov. 17
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,B2,2,2,524,"$2,344",One Month Free! Call Today!,"1,156",availibility Nov. 23
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,B2,2,2,272,"$2,314",One Month Free! Call Today!,"1,156",availibility Nov. 27
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,B3,2,2,142,"$2,419",One Month Free! Call Today!,"1,168",availibility Oct. 14
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,B3,2,2,306,"$2,429",One Month Free! Call Today!,"1,168",availibility Oct. 16
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,B3,2,2,519,"$2,394",One Month Free! Call Today!,"1,168",availibility Nov. 24
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,B5L,2,2,567,"$2,595",One Month Free! Call Today!,"1,092",availibility Oct. 16
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,B5,2,2,383,"$2,199",One Month Free! Call Today!,980,availibility Nov. 7
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,B5,2,2,483,"$2,209",One Month Free! Call Today!,980,availibility Nov. 20
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,B2L,2,2,568,"$2,659",One Month Free! Call Today!,"1,132",availibility Nov. 29
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,C2,3,2,444,"$2,615",One Month Free! Call Today!,"1,330",availibility Now
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,C2,3,2,244,"$2,833",One Month Free! Call Today!,"1,330",availibility Now
+The Morgan Sandy Springs,"6125 Roswell Rd NE, Sandy Springs, GA 30328 Sandy Springs",4.5 (44 reviews) Verified Listing,C2,3,2,337,"$2,841",One Month Free! Call Today!,"1,330",availibility Now
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,S03,Studio,1,100-308,"$1,609",Enjoy Waived App & Admin Fees Contact us for details,724,availibility Now
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,S02,Studio,1,200-366,"$1,652",Enjoy Waived App & Admin Fees Contact us for details,684,availibility Now
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,S01,Studio,1,100-622,"$1,659",Enjoy Waived App & Admin Fees Contact us for details,643,availibility Nov. 8
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,A01,1,1,200-483,"$1,547",Enjoy Waived App & Admin Fees Contact us for details,688,availibility Now
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,A01,1,1,100-815,"$1,649",Enjoy Waived App & Admin Fees Contact us for details,688,availibility Now
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,A01,1,1,100-816,"$1,695",Enjoy Waived App & Admin Fees Contact us for details,688,availibility Now
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,A01,1,1,200-453,"$1,565",Enjoy Waived App & Admin Fees Contact us for details,688,availibility Oct. 16
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,A06,1,1,100-524,"$1,553",Enjoy Waived App & Admin Fees Contact us for details,763,availibility Now
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,A11,1,1,100-618,"$1,614",Enjoy Waived App & Admin Fees Contact us for details,792,availibility Now
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,A09,1,1,200-348,"$1,807",Enjoy Waived App & Admin Fees Contact us for details,876,availibility Now
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,A09,1,1,200-648,"$1,841",Enjoy Waived App & Admin Fees Contact us for details,876,availibility Now
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,A09,1,1,200-277,"$1,921",Enjoy Waived App & Admin Fees Contact us for details,876,availibility Oct. 6
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,A09,1,1,200-469,"$1,931",Enjoy Waived App & Admin Fees Contact us for details,876,availibility Oct. 7
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,A09,1,1,200-347,"$1,926",Enjoy Waived App & Admin Fees Contact us for details,876,availibility Nov. 8
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,A05,1,1,200-342,"$1,611",Enjoy Waived App & Admin Fees Contact us for details,763,availibility Oct. 6
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,A05,1,1,200-172,"$1,555",Enjoy Waived App & Admin Fees Contact us for details,763,availibility Nov. 29
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,A08,1,1,200-682,"$1,630",Enjoy Waived App & Admin Fees Contact us for details,704,availibility Oct. 15
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,A12,1,1,100-103,"$1,636",Enjoy Waived App & Admin Fees Contact us for details,851,availibility Oct. 16
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,A02,1,1,200-549,"$1,560",Enjoy Waived App & Admin Fees Contact us for details,707,availibility Oct. 23
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,A02,1,1,200-559,"$1,585",Enjoy Waived App & Admin Fees Contact us for details,707,availibility Dec. 6
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,B05,2,2,200-464,"$2,016",Enjoy Waived App & Admin Fees Contact us for details,989,availibility Now
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,B01,2,2,200-543,"$2,087",Enjoy Waived App & Admin Fees Contact us for details,"1,072",availibility Now
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,B01,2,2,200-445,"$2,117",Enjoy Waived App & Admin Fees Contact us for details,"1,072",availibility Oct. 5
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,B01,2,2,200-340,"$2,087",Enjoy Waived App & Admin Fees Contact us for details,"1,072",availibility Oct. 15
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,B01,2,2,200-443,"$2,117",Enjoy Waived App & Admin Fees Contact us for details,"1,072",availibility Oct. 16
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,B08,2,2,100-538,"$2,450",Enjoy Waived App & Admin Fees Contact us for details,"1,189",availibility Now
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,B08,2,2,100-838,"$2,588",Enjoy Waived App & Admin Fees Contact us for details,"1,189",availibility Oct. 13
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,B08,2,2,100-638,"$2,553",Enjoy Waived App & Admin Fees Contact us for details,"1,189",availibility Nov. 25
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,B07,2,2,200-651,"$2,393",Enjoy Waived App & Admin Fees Contact us for details,"1,115",availibility Oct. 2
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,B07,2,2,200-350,"$2,373",Enjoy Waived App & Admin Fees Contact us for details,"1,115",availibility Oct. 7
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,B07,2,2,100-831,"$2,428",Enjoy Waived App & Admin Fees Contact us for details,"1,115",availibility Oct. 12
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,B07,2,2,200-650,"$2,393",Enjoy Waived App & Admin Fees Contact us for details,"1,115",availibility Nov. 8
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,B12,2,2,100-433,"$2,012",Enjoy Waived App & Admin Fees Contact us for details,"1,018",availibility Nov. 29
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,S03,Studio,1,100-308,"$1,609",Enjoy Waived App & Admin Fees Contact us for details,724,availibility Now
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,S02,Studio,1,200-366,"$1,652",Enjoy Waived App & Admin Fees Contact us for details,684,availibility Now
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,S01,Studio,1,100-622,"$1,659",Enjoy Waived App & Admin Fees Contact us for details,643,availibility Nov. 8
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,A01,1,1,200-483,"$1,547",Enjoy Waived App & Admin Fees Contact us for details,688,availibility Now
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,A01,1,1,100-815,"$1,649",Enjoy Waived App & Admin Fees Contact us for details,688,availibility Now
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,A01,1,1,100-816,"$1,695",Enjoy Waived App & Admin Fees Contact us for details,688,availibility Now
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,A01,1,1,200-453,"$1,565",Enjoy Waived App & Admin Fees Contact us for details,688,availibility Oct. 16
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,A06,1,1,100-524,"$1,553",Enjoy Waived App & Admin Fees Contact us for details,763,availibility Now
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,A11,1,1,100-618,"$1,614",Enjoy Waived App & Admin Fees Contact us for details,792,availibility Now
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,A09,1,1,200-348,"$1,807",Enjoy Waived App & Admin Fees Contact us for details,876,availibility Now
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,A09,1,1,200-648,"$1,841",Enjoy Waived App & Admin Fees Contact us for details,876,availibility Now
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,A09,1,1,200-277,"$1,921",Enjoy Waived App & Admin Fees Contact us for details,876,availibility Oct. 6
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,A09,1,1,200-469,"$1,931",Enjoy Waived App & Admin Fees Contact us for details,876,availibility Oct. 7
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,A09,1,1,200-347,"$1,926",Enjoy Waived App & Admin Fees Contact us for details,876,availibility Nov. 8
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,A05,1,1,200-342,"$1,611",Enjoy Waived App & Admin Fees Contact us for details,763,availibility Oct. 6
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,A05,1,1,200-172,"$1,555",Enjoy Waived App & Admin Fees Contact us for details,763,availibility Nov. 29
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,A08,1,1,200-682,"$1,630",Enjoy Waived App & Admin Fees Contact us for details,704,availibility Oct. 15
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,A12,1,1,100-103,"$1,636",Enjoy Waived App & Admin Fees Contact us for details,851,availibility Oct. 16
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,A02,1,1,200-549,"$1,560",Enjoy Waived App & Admin Fees Contact us for details,707,availibility Oct. 23
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,A02,1,1,200-559,"$1,585",Enjoy Waived App & Admin Fees Contact us for details,707,availibility Dec. 6
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,B05,2,2,200-464,"$2,016",Enjoy Waived App & Admin Fees Contact us for details,989,availibility Now
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,B01,2,2,200-543,"$2,087",Enjoy Waived App & Admin Fees Contact us for details,"1,072",availibility Now
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,B01,2,2,200-445,"$2,117",Enjoy Waived App & Admin Fees Contact us for details,"1,072",availibility Oct. 5
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,B01,2,2,200-340,"$2,087",Enjoy Waived App & Admin Fees Contact us for details,"1,072",availibility Oct. 15
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,B01,2,2,200-443,"$2,117",Enjoy Waived App & Admin Fees Contact us for details,"1,072",availibility Oct. 16
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,B08,2,2,100-538,"$2,450",Enjoy Waived App & Admin Fees Contact us for details,"1,189",availibility Now
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,B08,2,2,100-838,"$2,588",Enjoy Waived App & Admin Fees Contact us for details,"1,189",availibility Oct. 13
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,B08,2,2,100-638,"$2,553",Enjoy Waived App & Admin Fees Contact us for details,"1,189",availibility Nov. 25
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,B07,2,2,200-651,"$2,393",Enjoy Waived App & Admin Fees Contact us for details,"1,115",availibility Oct. 2
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,B07,2,2,200-350,"$2,373",Enjoy Waived App & Admin Fees Contact us for details,"1,115",availibility Oct. 7
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,B07,2,2,100-831,"$2,428",Enjoy Waived App & Admin Fees Contact us for details,"1,115",availibility Oct. 12
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,B07,2,2,200-650,"$2,393",Enjoy Waived App & Admin Fees Contact us for details,"1,115",availibility Nov. 8
+The Bishop,"1115 Springwood Connector, Atlanta, GA 30328 Sandy Springs",3.8 (20 reviews) Verified Listing,B12,2,2,100-433,"$2,012",Enjoy Waived App & Admin Fees Contact us for details,"1,018",availibility Nov. 29
+MAA Dunwoody,"4777 Ashford Dunwoody Rd, Atlanta, GA 30338 Perimeter Center",4.7 (6 reviews) Verified Listing,Traditional 1x1 755 SF,1,1,832,"$1,510",,755,availibility Now
+MAA Dunwoody,"4777 Ashford Dunwoody Rd, Atlanta, GA 30338 Perimeter Center",4.7 (6 reviews) Verified Listing,Traditional 1x1 755 SF,1,1,809,"$1,530",,755,availibility Now
+MAA Dunwoody,"4777 Ashford Dunwoody Rd, Atlanta, GA 30338 Perimeter Center",4.7 (6 reviews) Verified Listing,Traditional 1x1 755 SF,1,1,815,"$1,575",,755,availibility Oct. 17
+MAA Dunwoody,"4777 Ashford Dunwoody Rd, Atlanta, GA 30338 Perimeter Center",4.7 (6 reviews) Verified Listing,Traditional 1x1 755 SF,1,1,217,"$1,595",,755,availibility Oct. 27
+MAA Dunwoody,"4777 Ashford Dunwoody Rd, Atlanta, GA 30338 Perimeter Center",4.7 (6 reviews) Verified Listing,Traditional 1x1 755 SF,1,1,837,"$1,655",,755,availibility Nov. 27
+MAA Dunwoody,"4777 Ashford Dunwoody Rd, Atlanta, GA 30338 Perimeter Center",4.7 (6 reviews) Verified Listing,Traditional 1x1 550-567 SF,1,1,1140,"$1,320",,554,availibility Oct. 2
+MAA Dunwoody,"4777 Ashford Dunwoody Rd, Atlanta, GA 30338 Perimeter Center",4.7 (6 reviews) Verified Listing,Traditional 1x1 550-567 SF,1,1,804,"$1,370",,550,availibility Oct. 19
+MAA Dunwoody,"4777 Ashford Dunwoody Rd, Atlanta, GA 30338 Perimeter Center",4.7 (6 reviews) Verified Listing,Traditional 1x1 550-567 SF,1,1,1123,"$1,410",,550,availibility Nov. 13
+MAA Dunwoody,"4777 Ashford Dunwoody Rd, Atlanta, GA 30338 Perimeter Center",4.7 (6 reviews) Verified Listing,Traditional 2x2 1223-1320 SF,2,2,1312,"$1,980",,"1,223",availibility Now
+MAA Dunwoody,"4777 Ashford Dunwoody Rd, Atlanta, GA 30338 Perimeter Center",4.7 (6 reviews) Verified Listing,Traditional 2x2 1223-1320 SF,2,2,1427,"$2,180",,"1,320",availibility Now
+MAA Dunwoody,"4777 Ashford Dunwoody Rd, Atlanta, GA 30338 Perimeter Center",4.7 (6 reviews) Verified Listing,Traditional 2x2 1223-1320 SF,2,2,101,"$2,150",,"1,223",availibility Nov. 11
+MAA Dunwoody,"4777 Ashford Dunwoody Rd, Atlanta, GA 30338 Perimeter Center",4.7 (6 reviews) Verified Listing,Traditional 2x2 1223-1320 SF,2,2,103,"$2,240",,"1,320",availibility Nov. 22
+MAA Dunwoody,"4777 Ashford Dunwoody Rd, Atlanta, GA 30338 Perimeter Center",4.7 (6 reviews) Verified Listing,Traditional 2x2 1223-1320 SF,2,2,207,"$2,180",,"1,223",availibility Dec. 1
+MAA Dunwoody,"4777 Ashford Dunwoody Rd, Atlanta, GA 30338 Perimeter Center",4.7 (6 reviews) Verified Listing,Carriage Home 2x2 1281-1338 SF,2,2,615,"$2,155",,"1,281",availibility Now
+MAA Dunwoody,"4777 Ashford Dunwoody Rd, Atlanta, GA 30338 Perimeter Center",4.7 (6 reviews) Verified Listing,Traditional 2x1 980 SF,2,1,1025,"$1,910",,980,availibility Oct. 19
+MAA Dunwoody,"4777 Ashford Dunwoody Rd, Atlanta, GA 30338 Perimeter Center",4.7 (6 reviews) Verified Listing,Traditional 2x1 980 SF,2,1,1005,"$1,995",,980,availibility Oct. 23
+MAA Dunwoody,"4777 Ashford Dunwoody Rd, Atlanta, GA 30338 Perimeter Center",4.7 (6 reviews) Verified Listing,Traditional 3x2 1423 SF,3,2,1007,"$2,515",,"1,423",availibility Oct. 31
+MAA Dunwoody,"4777 Ashford Dunwoody Rd, Atlanta, GA 30338 Perimeter Center",4.7 (6 reviews) Verified Listing,Traditional 1x1 755 SF,1,1,832,"$1,510",,755,availibility Now
+MAA Dunwoody,"4777 Ashford Dunwoody Rd, Atlanta, GA 30338 Perimeter Center",4.7 (6 reviews) Verified Listing,Traditional 1x1 755 SF,1,1,809,"$1,530",,755,availibility Now
+MAA Dunwoody,"4777 Ashford Dunwoody Rd, Atlanta, GA 30338 Perimeter Center",4.7 (6 reviews) Verified Listing,Traditional 1x1 755 SF,1,1,815,"$1,575",,755,availibility Oct. 17
+MAA Dunwoody,"4777 Ashford Dunwoody Rd, Atlanta, GA 30338 Perimeter Center",4.7 (6 reviews) Verified Listing,Traditional 1x1 755 SF,1,1,217,"$1,595",,755,availibility Oct. 27
+MAA Dunwoody,"4777 Ashford Dunwoody Rd, Atlanta, GA 30338 Perimeter Center",4.7 (6 reviews) Verified Listing,Traditional 1x1 755 SF,1,1,837,"$1,655",,755,availibility Nov. 27
+MAA Dunwoody,"4777 Ashford Dunwoody Rd, Atlanta, GA 30338 Perimeter Center",4.7 (6 reviews) Verified Listing,Traditional 1x1 550-567 SF,1,1,1140,"$1,320",,554,availibility Oct. 2
+MAA Dunwoody,"4777 Ashford Dunwoody Rd, Atlanta, GA 30338 Perimeter Center",4.7 (6 reviews) Verified Listing,Traditional 1x1 550-567 SF,1,1,804,"$1,370",,550,availibility Oct. 19
+MAA Dunwoody,"4777 Ashford Dunwoody Rd, Atlanta, GA 30338 Perimeter Center",4.7 (6 reviews) Verified Listing,Traditional 1x1 550-567 SF,1,1,1123,"$1,410",,550,availibility Nov. 13
+MAA Dunwoody,"4777 Ashford Dunwoody Rd, Atlanta, GA 30338 Perimeter Center",4.7 (6 reviews) Verified Listing,Traditional 2x2 1223-1320 SF,2,2,1312,"$1,980",,"1,223",availibility Now
+MAA Dunwoody,"4777 Ashford Dunwoody Rd, Atlanta, GA 30338 Perimeter Center",4.7 (6 reviews) Verified Listing,Traditional 2x2 1223-1320 SF,2,2,1427,"$2,180",,"1,320",availibility Now
+MAA Dunwoody,"4777 Ashford Dunwoody Rd, Atlanta, GA 30338 Perimeter Center",4.7 (6 reviews) Verified Listing,Traditional 2x2 1223-1320 SF,2,2,101,"$2,150",,"1,223",availibility Nov. 11
+MAA Dunwoody,"4777 Ashford Dunwoody Rd, Atlanta, GA 30338 Perimeter Center",4.7 (6 reviews) Verified Listing,Traditional 2x2 1223-1320 SF,2,2,103,"$2,240",,"1,320",availibility Nov. 22
+MAA Dunwoody,"4777 Ashford Dunwoody Rd, Atlanta, GA 30338 Perimeter Center",4.7 (6 reviews) Verified Listing,Traditional 2x2 1223-1320 SF,2,2,207,"$2,180",,"1,223",availibility Dec. 1
+MAA Dunwoody,"4777 Ashford Dunwoody Rd, Atlanta, GA 30338 Perimeter Center",4.7 (6 reviews) Verified Listing,Carriage Home 2x2 1281-1338 SF,2,2,615,"$2,155",,"1,281",availibility Now
+MAA Dunwoody,"4777 Ashford Dunwoody Rd, Atlanta, GA 30338 Perimeter Center",4.7 (6 reviews) Verified Listing,Traditional 2x1 980 SF,2,1,1025,"$1,910",,980,availibility Oct. 19
+MAA Dunwoody,"4777 Ashford Dunwoody Rd, Atlanta, GA 30338 Perimeter Center",4.7 (6 reviews) Verified Listing,Traditional 2x1 980 SF,2,1,1005,"$1,995",,980,availibility Oct. 23
+MAA Dunwoody,"4777 Ashford Dunwoody Rd, Atlanta, GA 30338 Perimeter Center",4.7 (6 reviews) Verified Listing,Traditional 3x2 1423 SF,3,2,1007,"$2,515",,"1,423",availibility Oct. 31
