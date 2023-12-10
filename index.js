@@ -54,7 +54,6 @@ async function getData(apartmentURL) {
 				unitTypesNodes[i].querySelectorAll('li.unitContainer')
 			return Array.from(availableUnits).map((e, j) => {
 				return {
-					url: apartmentURL,
 					name: _querySelector(document, '#propertyName'),
 					address: _querySelector(document, '#propertyAddressRow'),
 					reviews: _querySelector(document, '#propertyReviewRow'),
@@ -109,8 +108,8 @@ const consoleRead = readline.createInterface({
 	output: process.stdout,
 })
 
-async function main(searchURL) {
-	let apartmentURLs = await getURLs(searchURL)
+async function main(searchURL = false, urlList = []) {
+	let apartmentURLs = searchURL ? await getURLs(searchURL) : urlList
 
 	console.log('looking at these URLs:')
 
@@ -144,5 +143,11 @@ async function main(searchURL) {
 
 //starting thread
 consoleRead.question('enter url of apartments.com search\n', (input) => {
-	main(input).then(() => consoleRead.close())
+	if (input[0] === "'") {
+		main(false, JSON.parse(input.replace(/'/g, ''))).then(() =>
+			consoleRead.close()
+		)
+	} else {
+		main(input).then(() => consoleRead.close())
+	}
 })
