@@ -10,7 +10,7 @@ async function getURLs(searchURL) {
 	})
 	const page = await browser.newPage()
 	await page.goto(searchURL, {
-		waitUntil: 'networkidle0',
+		waitUntil: 'domcontentloaded',
 	})
 
 	let apartmentURLs = await page.evaluate(() =>
@@ -18,7 +18,7 @@ async function getURLs(searchURL) {
 			document.querySelectorAll('.property-information > .property-link')
 		).map((each) => each.href)
 	)
-	await browser.close()
+	// await browser.close()
 
 	return apartmentURLs
 }
